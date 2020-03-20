@@ -205,12 +205,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,0,1209
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,0,1148
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,0,406
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,0,405
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,0,3452
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,0,3198
-IT1,,IT10,,IT109,Fermo,1,males,0,620
-IT1,,IT10,,IT109,Fermo,2,females,0,548
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,0,1601
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,0,1377
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,0,3452
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,0,3198
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,0,620
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,0,548
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,0,1601
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,0,1377
 ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,2,females,1,2290
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,1,males,1,841
 ITF,Sud,ITF3,Campania,ITF33,Napoli,1,males,1,14197
@@ -261,7 +261,7 @@ ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,2,females,1,1220
 ITE,Centro (I),ITE4,Lazio,ITE42,Rieti,1,males,1,519
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD53,Reggio nell'Emilia,1,males,1,2230
 ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,1,males,1,2424
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,1,1505
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,1,1505
 ITE,Centro (I),ITE1,Toscana,ITE19,Siena,2,females,1,934
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,2,females,1,551
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD58,Forlì-Cesena,1,males,1,1530
@@ -295,7 +295,7 @@ ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD43,Gorizia,2,females,1,488
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,2,females,1,5284
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,2,females,1,3329
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,2,females,1,5003
-IT1,,IT10,,IT109,Fermo,2,females,1,585
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,1,585
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,2,females,1,2224
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD41,Pordenone,2,females,1,1144
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD56,Ferrara,1,males,1,1055
@@ -319,7 +319,7 @@ ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,2,females,1,1324
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1,males,1,5278
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,1,2414
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,1,1686
-IT1,,IT10,,IT109,Fermo,1,males,1,608
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,1,608
 ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,1,males,1,636
 ITC,Nord-ovest,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC20,Valle d'Aosta / Vallée d'Aoste,1,males,1,473
 ITE,Centro (I),ITE3,Marche,ITE32,Ancona,1,males,1,1694
@@ -328,7 +328,7 @@ ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD43,Gorizia,1,males,1,489
 ITE,Centro (I),ITE3,Marche,ITE33,Macerata,1,males,1,1194
 ITD,Nord-est,ITD3,Veneto,ITD37,Rovigo,1,males,1,806
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,1,567
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,1,3674
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,1,3674
 ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,2,females,1,1097
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,1,males,1,1025
 ITF,Sud,ITF2,Molise,ITF21,Isernia,2,females,1,274
@@ -336,7 +336,7 @@ ITD,Nord-est,ITD3,Veneto,ITD36,Padova,1,males,1,3549
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,2,females,1,1366
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1,males,1,2038
 ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,2,females,1,2567
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,1,1625
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,1,1625
 ITF,Sud,ITF4,Puglia,ITF45,Lecce,2,females,1,2712
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,2,females,1,693
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,1,2344
@@ -422,7 +422,7 @@ ITF,Sud,ITF5,Basilicata,ITF51,Potenza,1,males,1,1334
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,2,females,1,1675
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,1,males,1,640
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,1,1703
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,1,3326
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,1,3326
 ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,1,males,2,1173
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,2,females,2,1310
 ITE,Centro (I),ITE3,Marche,ITE34,Ascoli Piceno,2,females,2,702
@@ -471,7 +471,7 @@ ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,2,410
 ITC,Nord-ovest,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC20,Valle d'Aosta / Vallée d'Aoste,2,females,2,459
 ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,1,males,2,1323
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD57,Ravenna,1,males,2,1474
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,2,1583
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,2,1583
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,2,females,2,718
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,2,5041
 ITD,Nord-est,ITD3,Veneto,ITD36,Padova,1,males,2,3815
@@ -516,7 +516,7 @@ ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,1,males,2,686
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,2,675
 ITF,Sud,ITF4,Puglia,ITF43,Taranto,2,females,2,2144
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,1,males,2,869
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,2,3691
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,2,3691
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1,males,2,4922
 ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,2,females,2,1890
 ITD,Nord-est,ITD3,Veneto,ITD37,Rovigo,1,males,2,705
@@ -536,7 +536,7 @@ ITE,Centro (I),ITE1,Toscana,ITE19,Siena,1,males,2,1004
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,1,males,2,1449
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,1,males,2,2382
 ITE,Centro (I),ITE4,Lazio,ITE42,Rieti,2,females,2,518
-IT1,,IT10,,IT109,Fermo,2,females,2,623
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,2,623
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,2,females,2,3910
 ITF,Sud,ITF3,Campania,ITF35,Salerno,1,males,2,4599
 ITE,Centro (I),ITE2,Umbria,ITE22,Terni,2,females,2,736
@@ -561,11 +561,11 @@ ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,2,628
 ITF,Sud,ITF3,Campania,ITF31,Caserta,2,females,2,4017
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,2,2479
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,2,females,2,1375
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,2,3464
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,2,3464
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,1,males,2,3616
-IT1,,IT10,,IT109,Fermo,1,males,2,666
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,2,666
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,2,females,2,690
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,2,1656
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,2,1656
 ITD,Nord-est,ITD2,Provincia Autonoma Trento,ITD20,Trento,1,males,2,2421
 ITE,Centro (I),ITE1,Toscana,ITE13,Pistoia,1,males,2,1099
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,2,females,2,2177
@@ -635,7 +635,7 @@ ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,1,males,2,1488
 ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,2,females,2,1397
 ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,1,males,2,832
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,1,males,2,2516
-IT1,,IT10,,IT109,Fermo,1,males,3,695
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,3,695
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,3,672
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,3,9156
 ITF,Sud,ITF3,Campania,ITF33,Napoli,2,females,3,13874
@@ -648,7 +648,7 @@ ITG,Isole,ITG1,Sicilia,ITG11,Trapani,2,females,3,1650
 ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,2,females,3,1163
 ITE,Centro (I),ITE3,Marche,ITE31,Pesaro e Urbino,2,females,3,1436
 ITF,Sud,ITF4,Puglia,ITF43,Taranto,2,females,3,2179
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,3,3882
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,3,3882
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,3,688
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD43,Gorizia,1,males,3,509
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,2,females,3,1396
@@ -750,7 +750,7 @@ ITD,Nord-est,ITD3,Veneto,ITD36,Padova,2,females,3,3686
 ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,1,males,3,2626
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,2,females,3,2462
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,1,males,3,1182
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,3,1482
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,3,1482
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,2,females,3,729
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD52,Parma,1,males,3,1975
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD58,Forlì-Cesena,1,males,3,1649
@@ -793,7 +793,7 @@ ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,3,1046
 ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,2,females,3,563
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,1,males,3,4288
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,2,females,3,4649
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,3,3742
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,3,3742
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,3,620
 ITD,Nord-est,ITD3,Veneto,ITD37,Rovigo,1,males,3,774
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,1,males,3,1405
@@ -829,8 +829,8 @@ ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,2,females,3,737
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,3,2602
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1,males,3,2195
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,2,females,3,5422
-IT1,,IT10,,IT109,Fermo,2,females,3,651
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,3,1645
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,3,651
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,3,1645
 ITE,Centro (I),ITE2,Umbria,ITE22,Terni,2,females,3,728
 ITF,Sud,ITF3,Campania,ITF35,Salerno,1,males,3,4645
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,3,1652
@@ -944,7 +944,7 @@ ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,1,males,4,1781
 ITE,Centro (I),ITE1,Toscana,ITE15,Prato,2,females,4,1079
 ITF,Sud,ITF2,Molise,ITF21,Isernia,2,females,4,275
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD52,Parma,1,males,4,2000
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,4,3795
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,4,3795
 ITE,Centro (I),ITE4,Lazio,ITE41,Viterbo,1,males,4,1282
 ITE,Centro (I),ITE4,Lazio,ITE42,Rieti,1,males,4,570
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,2,females,4,3717
@@ -968,7 +968,7 @@ ITF,Sud,ITF5,Basilicata,ITF51,Potenza,2,females,4,1248
 ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,2,females,4,1406
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,2,females,4,603
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,1,males,4,1328
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,4,1673
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,4,1673
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,4,510
 ITF,Sud,ITF4,Puglia,ITF43,Taranto,2,females,4,2345
 ITF,Sud,ITF3,Campania,ITF33,Napoli,2,females,4,13984
@@ -985,7 +985,7 @@ ITF,Sud,ITF4,Puglia,ITF45,Lecce,2,females,4,2818
 ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,2,females,4,2900
 ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,1,males,4,1451
 ITE,Centro (I),ITE3,Marche,ITE33,Macerata,1,males,4,1284
-IT1,,IT10,,IT109,Fermo,1,males,4,694
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,4,694
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,4,1438
 ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,2,females,4,1893
 ITD,Nord-est,ITD3,Veneto,ITD32,Vicenza,1,males,4,3854
@@ -1004,7 +1004,7 @@ ITE,Centro (I),ITE3,Marche,ITE32,Ancona,1,males,4,1937
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,4,730
 ITF,Sud,ITF3,Campania,ITF35,Salerno,2,females,4,4449
 ITF,Sud,ITF2,Molise,ITF21,Isernia,1,males,4,328
-IT1,,IT10,,IT109,Fermo,2,females,4,613
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,4,613
 ITE,Centro (I),ITE4,Lazio,ITE43,Roma,2,females,4,18336
 ITF,Sud,ITF6,Calabria,ITF61,Cosenza,2,females,4,2785
 ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,2,females,4,1113
@@ -1014,7 +1014,7 @@ ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD44,Trieste,1,males,4,843
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,2,females,4,1736
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,1,males,4,1526
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,4,697
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,4,3984
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,4,3984
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,1,males,4,2546
 ITF,Sud,ITF4,Puglia,ITF42,Bari,2,females,4,5031
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,1,males,4,1565
@@ -1029,7 +1029,7 @@ ITE,Centro (I),ITE4,Lazio,ITE42,Rieti,2,females,4,544
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,1,males,4,2643
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,1,males,4,1572
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,2,females,4,5053
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,4,1768
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,4,1768
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1,males,4,2199
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,2,females,4,1706
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,2,females,4,1776
@@ -1265,12 +1265,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,5,1629
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,5,1503
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,5,504
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,5,530
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,5,4115
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,5,3762
-IT1,,IT10,,IT109,Fermo,1,males,5,737
-IT1,,IT10,,IT109,Fermo,2,females,5,691
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,5,1645
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,5,1642
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,5,4115
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,5,3762
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,5,737
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,5,691
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,5,1645
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,5,1642
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,1,males,6,1731
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,1,males,6,1641
 ITF,Sud,ITF5,Basilicata,ITF52,Matera,2,females,6,793
@@ -1327,7 +1327,7 @@ ITD,Nord-est,ITD5,Emilia-Romagna,ITD52,Parma,1,males,6,2078
 ITE,Centro (I),ITE3,Marche,ITE34,Ascoli Piceno,2,females,6,808
 ITE,Centro (I),ITE4,Lazio,ITE43,Roma,1,males,6,21087
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,2,females,6,2276
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,6,1668
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,6,1668
 ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,2,females,6,1034
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,2,females,6,5235
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,1,males,6,1596
@@ -1341,11 +1341,11 @@ ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,2,females,6,1194
 ITF,Sud,ITF4,Puglia,ITF45,Lecce,2,females,6,3183
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,6,2866
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD56,Ferrara,1,males,6,1308
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,6,1737
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,6,1737
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,2,females,6,593
 ITD,Nord-est,ITD3,Veneto,ITD36,Padova,2,females,6,4122
 ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,1,males,6,2908
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,6,4003
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,6,4003
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,2,females,6,5244
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,6,665
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD54,Modena,2,females,6,3282
@@ -1354,7 +1354,7 @@ ITF,Sud,ITF3,Campania,ITF31,Caserta,1,males,6,4629
 ITE,Centro (I),ITE1,Toscana,ITE13,Pistoia,2,females,6,1186
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,1,males,6,1282
 ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,2,females,6,14261
-IT1,,IT10,,IT109,Fermo,2,females,6,700
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,6,700
 ITE,Centro (I),ITE3,Marche,ITE34,Ascoli Piceno,1,males,6,818
 ITF,Sud,ITF3,Campania,ITF34,Avellino,1,males,6,1718
 ITE,Centro (I),ITE1,Toscana,ITE16,Livorno,2,females,6,1360
@@ -1392,7 +1392,7 @@ ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,6,1222
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,2,females,6,1831
 ITD,Nord-est,ITD2,Provincia Autonoma Trento,ITD20,Trento,1,males,6,2691
 ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,2,females,6,1259
-IT1,,IT10,,IT109,Fermo,1,males,6,713
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,6,713
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD54,Modena,1,males,6,3465
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,6,739
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,6,1521
@@ -1481,7 +1481,7 @@ ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,1,males,6,951
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,6,2016
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,6,508
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,6,770
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,6,4198
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,6,4198
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,6,855
 ITF,Sud,ITF3,Campania,ITF31,Caserta,1,males,7,4765
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD58,Forlì-Cesena,2,females,7,1728
@@ -1509,7 +1509,7 @@ ITE,Centro (I),ITE1,Toscana,ITE16,Livorno,2,females,7,1337
 ITF,Sud,ITF3,Campania,ITF33,Napoli,1,males,7,16232
 ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1,males,7,3102
 ITE,Centro (I),ITE4,Lazio,ITE42,Rieti,2,females,7,615
-IT1,,IT10,,IT109,Fermo,2,females,7,736
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,7,736
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,7,1910
 ITF,Sud,ITF3,Campania,ITF32,Benevento,1,males,7,1204
 ITE,Centro (I),ITE1,Toscana,ITE14,Firenze,1,males,7,4460
@@ -1533,11 +1533,11 @@ ITF,Sud,ITF3,Campania,ITF35,Salerno,2,females,7,4807
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,1,males,7,1445
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,2,females,7,1870
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,7,530
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,7,1905
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,7,1905
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,2,females,7,5381
 ITE,Centro (I),ITE1,Toscana,ITE13,Pistoia,2,females,7,1237
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,1,males,7,1895
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,7,1756
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,7,1756
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,7,1099
 ITE,Centro (I),ITE1,Toscana,ITE19,Siena,1,males,7,1209
 ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,2,females,7,1592
@@ -1581,7 +1581,7 @@ ITF,Sud,ITF3,Campania,ITF34,Avellino,2,females,7,1632
 ITF,Sud,ITF3,Campania,ITF33,Napoli,2,females,7,15203
 ITE,Centro (I),ITE3,Marche,ITE32,Ancona,2,females,7,2071
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,2,females,7,1596
-IT1,,IT10,,IT109,Fermo,1,males,7,790
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,7,790
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,7,661
 ITE,Centro (I),ITE3,Marche,ITE33,Macerata,1,males,7,1396
 ITE,Centro (I),ITE3,Marche,ITE32,Ancona,1,males,7,2114
@@ -1589,11 +1589,11 @@ ITF,Sud,ITF4,Puglia,ITF44,Brindisi,1,males,7,1765
 ITF,Sud,ITF3,Campania,ITF32,Benevento,2,females,7,1066
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,7,1947
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,7,1718
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,7,4184
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,7,4184
 ITE,Centro (I),ITE4,Lazio,ITE43,Roma,2,females,7,20090
 ITF,Sud,ITF4,Puglia,ITF45,Lecce,1,males,7,3416
 ITE,Centro (I),ITE3,Marche,ITE31,Pesaro e Urbino,2,females,7,1664
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,7,4244
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,7,4244
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,7,690
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,1,males,7,2651
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,1,males,7,1693
@@ -1731,7 +1731,7 @@ ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,1,males,8,850
 ITE,Centro (I),ITE3,Marche,ITE31,Pesaro e Urbino,1,males,8,1704
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,2,females,8,1199
 ITE,Centro (I),ITE4,Lazio,ITE44,Latina,1,males,8,2855
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,8,1898
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,8,1898
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,1,males,8,1315
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,8,1891
 ITF,Sud,ITF3,Campania,ITF32,Benevento,1,males,8,1144
@@ -1776,7 +1776,7 @@ ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,8,1206
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,2,females,8,2272
 ITE,Centro (I),ITE4,Lazio,ITE41,Viterbo,1,males,8,1363
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,2,females,8,1679
-IT1,,IT10,,IT109,Fermo,2,females,8,709
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,8,709
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD53,Reggio nell'Emilia,1,males,8,2895
 ITF,Sud,ITF2,Molise,ITF21,Isernia,1,males,8,336
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,1,males,8,1668
@@ -1798,7 +1798,7 @@ ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD41,Pordenone,2,females,8,1437
 ITF,Sud,ITF4,Puglia,ITF45,Lecce,2,females,8,3312
 ITF,Sud,ITF3,Campania,ITF35,Salerno,2,females,8,4818
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,8,2960
-IT1,,IT10,,IT109,Fermo,1,males,8,783
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,8,783
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1,males,8,6824
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,1,males,8,4335
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,2,females,8,4313
@@ -1812,7 +1812,7 @@ ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,8,5633
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,2,females,8,1673
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,2,females,8,1016
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,8,2003
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,8,4197
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,8,4197
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD43,Gorizia,1,males,8,596
 ITF,Sud,ITF4,Puglia,ITF43,Taranto,2,females,8,2556
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1,males,8,5915
@@ -1835,7 +1835,7 @@ ITE,Centro (I),ITE1,Toscana,ITE19,Siena,2,females,8,1190
 ITE,Centro (I),ITE3,Marche,ITE32,Ancona,1,males,8,2208
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,2,females,8,766
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,1,males,8,1268
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,8,1956
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,8,1956
 ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,1,males,8,775
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,2,females,8,1797
 ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,1,males,8,817
@@ -1887,7 +1887,7 @@ ITC,Nord-ovest,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC20,Valle d'Aosta / Vallé
 ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,1,males,8,2130
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,8,747
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,8,764
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,8,4433
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,8,4433
 ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,2,females,8,2110
 ITE,Centro (I),ITE3,Marche,ITE31,Pesaro e Urbino,2,females,8,1602
 ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,2,females,8,1419
@@ -1908,7 +1908,7 @@ ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,8,2207
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,8,10395
 ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,1,males,8,900
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,2,females,9,2638
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,9,4246
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,9,4246
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,9,721
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,1,males,9,4826
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD44,Trieste,1,males,9,908
@@ -1953,7 +1953,7 @@ ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,2,females,9,815
 ITD,Nord-est,ITD1,Provincia Autonoma Bolzano / Bozen,ITD10,Bolzano / Bozen,2,females,9,2648
 ITD,Nord-est,ITD3,Veneto,ITD37,Rovigo,1,males,9,1001
 ITE,Centro (I),ITE3,Marche,ITE34,Ascoli Piceno,1,males,9,887
-IT1,,IT10,,IT109,Fermo,2,females,9,722
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,9,722
 ITE,Centro (I),ITE1,Toscana,ITE14,Firenze,1,males,9,4608
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,9,2056
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,9,2767
@@ -1976,7 +1976,7 @@ ITF,Sud,ITF4,Puglia,ITF45,Lecce,1,males,9,3503
 ITD,Nord-est,ITD3,Veneto,ITD31,Verona,1,males,9,4776
 ITF,Sud,ITF3,Campania,ITF32,Benevento,2,females,9,1175
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,2,females,9,1580
-IT1,,IT10,,IT109,Fermo,1,males,9,810
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,9,810
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,2,females,9,1596
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,2,females,9,6441
 ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,1,males,9,909
@@ -1995,7 +1995,7 @@ ITE,Centro (I),ITE4,Lazio,ITE44,Latina,1,males,9,2795
 ITF,Sud,ITF6,Calabria,ITF62,Crotone,1,males,9,938
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,9,1913
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,9,1783
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,9,1909
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,9,1909
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,1,males,9,1358
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD42,Udine,2,females,9,2285
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,1,males,9,963
@@ -2012,8 +2012,8 @@ ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,2,females,9,1681
 ITE,Centro (I),ITE1,Toscana,ITE15,Prato,2,females,9,1214
 ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,2,females,9,3454
 ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,1,males,9,755
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,9,2004
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,9,4600
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,9,2004
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,9,4600
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,9,732
 ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,2,females,9,1201
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,1,males,9,2012
@@ -2133,12 +2133,12 @@ ITD,Nord-est,ITD3,Veneto,ITD35,Venezia,2,females,10,3775
 ITD,Nord-est,ITD2,Provincia Autonoma Trento,ITD20,Trento,2,females,10,2722
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,1,males,10,968
 ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,1,males,10,3184
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,10,4298
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,10,4298
 ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,1,males,10,1418
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,2,females,10,5522
 ITE,Centro (I),ITE4,Lazio,ITE44,Latina,1,males,10,2763
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD56,Ferrara,2,females,10,1386
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,10,1915
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,10,1915
 ITF,Sud,ITF3,Campania,ITF32,Benevento,1,males,10,1235
 ITE,Centro (I),ITE1,Toscana,ITE18,Arezzo,1,males,10,1566
 ITE,Centro (I),ITE2,Umbria,ITE22,Terni,1,males,10,1012
@@ -2169,7 +2169,7 @@ ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,1,males,10,1665
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD58,Forlì-Cesena,2,females,10,1808
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD52,Parma,2,females,10,2002
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,2,females,10,2581
-IT1,,IT10,,IT109,Fermo,2,females,10,724
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,10,724
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,1,males,10,997
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD42,Udine,2,females,10,2209
 ITD,Nord-est,ITD3,Veneto,ITD35,Venezia,1,males,10,4083
@@ -2205,7 +2205,7 @@ ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,1,males,10,4458
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,10,2694
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,2,females,10,1701
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,10,2179
-IT1,,IT10,,IT109,Fermo,1,males,10,767
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,10,767
 ITD,Nord-est,ITD2,Provincia Autonoma Trento,ITD20,Trento,1,males,10,2843
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,1,males,10,1691
 ITC,Nord-ovest,ITC1,Piemonte,ITC18,Alessandria,1,males,10,1792
@@ -2270,7 +2270,7 @@ ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD42,Udine,1,males,10,2243
 ITF,Sud,ITF3,Campania,ITF34,Avellino,1,males,10,1870
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,1,males,10,1818
 ITF,Sud,ITF4,Puglia,ITF43,Taranto,2,females,10,2634
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,10,4521
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,10,4521
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1,males,10,6008
 ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,2,females,10,1496
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1,males,10,899
@@ -2293,7 +2293,7 @@ ITF,Sud,ITF3,Campania,ITF33,Napoli,1,males,10,17273
 ITF,Sud,ITF4,Puglia,ITF43,Taranto,1,males,10,2775
 ITF,Sud,ITF3,Campania,ITF35,Salerno,1,males,10,5288
 ITF,Sud,ITF3,Campania,ITF31,Caserta,2,females,10,4828
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,10,2032
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,10,2032
 ITF,Sud,ITF5,Basilicata,ITF52,Matera,2,females,10,856
 ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,2,females,10,15346
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,1,males,10,699
@@ -2429,7 +2429,7 @@ ITF,Sud,ITF5,Basilicata,ITF51,Potenza,1,males,11,1617
 ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1,males,11,3173
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,11,1553
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,11,810
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,11,4508
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,11,4508
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,2,females,11,6414
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1,males,11,2430
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD52,Parma,2,females,11,2027
@@ -2448,8 +2448,8 @@ ITG,Isole,ITG1,Sicilia,ITG11,Trapani,2,females,11,1986
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1,males,11,6376
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,2,females,11,2039
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,1,males,11,1327
-IT1,,IT10,,IT109,Fermo,2,females,11,756
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,11,2111
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,11,756
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,11,2111
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,11,705
 ITC,Nord-ovest,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC20,Valle d'Aosta / Vallée d'Aoste,1,males,11,624
 ITD,Nord-est,ITD3,Veneto,ITD31,Verona,2,females,11,4450
@@ -2489,7 +2489,7 @@ ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,11,1178
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,1,males,11,768
 ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,2,females,11,1506
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,11,2008
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,11,1993
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,11,1993
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,1,males,11,946
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD41,Pordenone,2,females,11,1515
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD42,Udine,1,males,11,2296
@@ -2522,8 +2522,8 @@ ITF,Sud,ITF6,Calabria,ITF62,Crotone,1,males,11,891
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,11,755
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,11,2786
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,1,males,11,2037
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,11,4246
-IT1,,IT10,,IT109,Fermo,1,males,11,815
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,11,4246
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,11,815
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,2,females,11,636
 ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,1,males,11,907
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,2,females,11,1900
@@ -2575,7 +2575,7 @@ ITF,Sud,ITF4,Puglia,ITF42,Bari,2,females,12,5797
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,12,2986
 ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,1,males,12,896
 ITF,Sud,ITF6,Calabria,ITF61,Cosenza,2,females,12,3060
-IT1,,IT10,,IT109,Fermo,1,males,12,780
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,12,780
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,1,males,12,847
 ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,2,females,12,1555
 ITF,Sud,ITF3,Campania,ITF33,Napoli,2,females,12,16764
@@ -2585,7 +2585,7 @@ ITF,Sud,ITF4,Puglia,ITF43,Taranto,2,females,12,2759
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,12,846
 ITE,Centro (I),ITE4,Lazio,ITE44,Latina,2,females,12,2673
 ITF,Sud,ITF6,Calabria,ITF62,Crotone,2,females,12,936
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,12,2144
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,12,2144
 ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,1,males,12,874
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,1,males,12,1470
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,2,females,12,1966
@@ -2619,7 +2619,7 @@ ITD,Nord-est,ITD3,Veneto,ITD34,Treviso,1,males,12,4708
 ITE,Centro (I),ITE1,Toscana,ITE19,Siena,1,males,12,1211
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,2,females,12,2704
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,12,778
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,12,4245
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,12,4245
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,2,females,12,5608
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD56,Ferrara,1,males,12,1455
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,1,males,12,2442
@@ -2711,7 +2711,7 @@ ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,2,females,12,765
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,12,1306
 ITF,Sud,ITF3,Campania,ITF32,Benevento,1,males,12,1270
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,12,2050
-IT1,,IT10,,IT109,Fermo,2,females,12,758
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,12,758
 ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,1,males,12,1727
 ITE,Centro (I),ITE4,Lazio,ITE41,Viterbo,1,males,12,1412
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,1,males,12,995
@@ -2735,7 +2735,7 @@ ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,2,females,12,881
 ITD,Nord-est,ITD1,Provincia Autonoma Bolzano / Bozen,ITD10,Bolzano / Bozen,2,females,12,2794
 ITE,Centro (I),ITE1,Toscana,ITE14,Firenze,1,males,12,4700
 ITF,Sud,ITF2,Molise,ITF21,Isernia,1,males,12,330
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,12,4610
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,12,4610
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,12,1559
 ITE,Centro (I),ITE1,Toscana,ITE14,Firenze,2,females,12,4437
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,2,females,12,892
@@ -2748,7 +2748,7 @@ ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,1,males,12,3192
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD56,Ferrara,2,females,12,1292
 ITE,Centro (I),ITE1,Toscana,ITE16,Livorno,1,males,12,1502
 ITE,Centro (I),ITE1,Toscana,ITE15,Prato,2,females,12,1321
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,12,2018
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,12,2018
 ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1,males,12,3356
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD57,Ravenna,1,males,12,1889
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD53,Reggio nell'Emilia,2,females,12,2657
@@ -2760,11 +2760,11 @@ ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,2,females,13,5559
 ITE,Centro (I),ITE1,Toscana,ITE16,Livorno,1,males,13,1427
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,2,females,13,4082
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD53,Reggio nell'Emilia,1,males,13,2778
-IT1,,IT10,,IT109,Fermo,2,females,13,721
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,13,721
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD43,Gorizia,2,females,13,564
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,13,1699
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,1,males,13,1624
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,13,4093
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,13,4093
 ITD,Nord-est,ITD1,Provincia Autonoma Bolzano / Bozen,ITD10,Bolzano / Bozen,2,females,13,2806
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,2,females,13,2670
 ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,2,females,13,824
@@ -2820,7 +2820,7 @@ ITD,Nord-est,ITD5,Emilia-Romagna,ITD54,Modena,2,females,13,3332
 ITD,Nord-est,ITD3,Veneto,ITD35,Venezia,2,females,13,3637
 ITE,Centro (I),ITE3,Marche,ITE33,Macerata,1,males,13,1403
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,13,2960
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,13,2185
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,13,2185
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD44,Trieste,2,females,13,850
 ITE,Centro (I),ITE1,Toscana,ITE19,Siena,1,males,13,1257
 ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,2,females,13,1679
@@ -2853,10 +2853,10 @@ ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1,males,13,833
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,2,females,13,882
 ITE,Centro (I),ITE1,Toscana,ITE15,Prato,2,females,13,1256
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,13,1883
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,13,1993
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,13,1993
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,1,males,13,2924
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,1,males,13,1982
-IT1,,IT10,,IT109,Fermo,1,males,13,790
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,13,790
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,1,males,13,943
 ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,1,males,13,15798
 ITE,Centro (I),ITE2,Umbria,ITE22,Terni,2,females,13,914
@@ -2877,7 +2877,7 @@ ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,13,1890
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD53,Reggio nell'Emilia,2,females,13,2617
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1,males,13,5935
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD54,Modena,1,males,13,3447
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,13,4397
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,13,4397
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,2,females,13,1559
 ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,1,males,13,1417
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,2,females,13,1758
@@ -3000,12 +3000,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,14,1779
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,14,1725
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,14,613
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,14,609
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,14,4424
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,14,4106
-IT1,,IT10,,IT109,Fermo,1,males,14,761
-IT1,,IT10,,IT109,Fermo,2,females,14,726
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,14,2260
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,14,2087
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,14,4424
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,14,4106
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,14,761
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,14,726
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,14,2260
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,14,2087
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,14,9676
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,14,745
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,14,676
@@ -3366,9 +3366,9 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,15,987
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,15,908
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,15,1914
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,15,1791
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,15,4234
-IT1,,IT10,,IT109,Fermo,1,males,15,749
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,15,2098
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,15,4234
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,15,749
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,15,2098
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,2,females,15,969
 ITF,Sud,ITF3,Campania,ITF32,Benevento,2,females,15,1249
 ITF,Sud,ITF3,Campania,ITF34,Avellino,1,males,15,2084
@@ -3388,9 +3388,9 @@ ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,2,females,15,1621
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,15,1954
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,15,678
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,15,595
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,15,4143
-IT1,,IT10,,IT109,Fermo,2,females,15,716
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,15,2268
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,15,4143
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,15,716
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,15,2268
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,16,10070
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,16,9723
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,16,750
@@ -3475,11 +3475,11 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,16,878
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,16,1826
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,16,1724
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,16,624
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,16,4298
-IT1,,IT10,,IT109,Fermo,1,males,16,778
-IT1,,IT10,,IT109,Fermo,2,females,16,728
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,16,2300
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,16,2244
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,16,4298
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,16,778
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,16,728
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,16,2300
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,16,2244
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,16,767
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,1,males,16,693
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,2,females,16,2571
@@ -3602,7 +3602,7 @@ ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,1,males,16,1510
 ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,2,females,16,1604
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,16,2111
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,16,631
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,16,4001
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,16,4001
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,17,10071
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,17,9585
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,17,736
@@ -3768,12 +3768,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,17,1901
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,17,1804
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,17,665
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,17,649
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,17,4141
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,17,4030
-IT1,,IT10,,IT109,Fermo,1,males,17,813
-IT1,,IT10,,IT109,Fermo,2,females,17,738
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,17,2264
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,17,2204
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,17,4141
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,17,4030
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,17,813
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,17,738
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,17,2264
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,17,2204
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,2,females,17,4221
 ITE,Centro (I),ITE1,Toscana,ITE11,Massa-Carrara,1,males,17,826
 ITE,Centro (I),ITE1,Toscana,ITE16,Livorno,1,males,17,1442
@@ -3969,12 +3969,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,18,1957
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,18,1738
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,18,719
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,18,640
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,18,4385
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,18,4028
-IT1,,IT10,,IT109,Fermo,1,males,18,859
-IT1,,IT10,,IT109,Fermo,2,females,18,754
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,18,2343
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,18,2384
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,18,4385
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,18,4028
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,18,859
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,18,754
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,18,2343
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,18,2384
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,18,10603
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,18,9839
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,18,791
@@ -4232,12 +4232,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,19,1994
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,19,1744
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,19,767
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,19,665
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,19,4260
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,19,3860
-IT1,,IT10,,IT109,Fermo,1,males,19,877
-IT1,,IT10,,IT109,Fermo,2,females,19,770
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,19,2497
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,19,2279
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,19,4260
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,19,3860
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,19,877
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,19,770
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,19,2497
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,19,2279
 ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,2,females,19,1655
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,20,10878
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,20,803
@@ -4294,7 +4294,7 @@ ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,20,2009
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,20,2295
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,20,2049
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,20,628
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,20,3911
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,20,3911
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,20,9674
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,20,826
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,2,females,20,2718
@@ -4446,11 +4446,11 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,20,978
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,20,2048
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,20,1665
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,20,743
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,20,4524
-IT1,,IT10,,IT109,Fermo,1,males,20,935
-IT1,,IT10,,IT109,Fermo,2,females,20,812
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,20,2384
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,20,2176
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,20,4524
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,20,935
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,20,812
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,20,2384
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,20,2176
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,21,10675
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,21,9790
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,21,794
@@ -4657,12 +4657,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,21,1939
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,21,1702
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,21,777
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,21,642
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,21,4358
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,21,3958
-IT1,,IT10,,IT109,Fermo,1,males,21,882
-IT1,,IT10,,IT109,Fermo,2,females,21,781
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,21,2462
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,21,2283
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,21,4358
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,21,3958
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,21,882
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,21,781
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,21,2462
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,21,2283
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,22,10549
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,22,9575
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,22,785
@@ -4789,12 +4789,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,22,2019
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,22,1725
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,22,740
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,22,649
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,22,4287
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,22,3908
-IT1,,IT10,,IT109,Fermo,1,males,22,927
-IT1,,IT10,,IT109,Fermo,2,females,22,789
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,22,2434
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,22,2178
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,22,4287
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,22,3908
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,22,927
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,22,789
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,22,2434
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,22,2178
 ITD,Nord-est,ITD2,Provincia Autonoma Trento,ITD20,Trento,2,females,22,2711
 ITD,Nord-est,ITD3,Veneto,ITD31,Verona,1,males,22,4688
 ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,2,females,22,915
@@ -4902,12 +4902,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,23,2118
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,23,1750
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,23,781
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,23,675
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,23,4261
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,23,3905
-IT1,,IT10,,IT109,Fermo,1,males,23,915
-IT1,,IT10,,IT109,Fermo,2,females,23,848
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,23,2359
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,23,2260
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,23,4261
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,23,3905
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,23,915
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,23,848
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,23,2359
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,23,2260
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,23,10459
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,23,9486
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,23,824
@@ -5293,12 +5293,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,24,2165
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,24,1880
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,24,748
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,24,675
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,24,4190
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,24,3891
-IT1,,IT10,,IT109,Fermo,1,males,24,865
-IT1,,IT10,,IT109,Fermo,2,females,24,773
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,24,2456
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,24,2340
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,24,4190
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,24,3891
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,24,865
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,24,773
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,24,2456
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,24,2340
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,25,10547
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,25,10085
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,25,820
@@ -5497,7 +5497,7 @@ ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,25,2261
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,25,1111
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,25,1032
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,25,804
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,25,3977
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,25,3977
 ITF,Sud,ITF4,Puglia,ITF44,Brindisi,2,females,25,2174
 ITF,Sud,ITF6,Calabria,ITF62,Crotone,1,males,25,1294
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,2,females,25,3310
@@ -5506,11 +5506,11 @@ ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,25,2340
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,25,2106
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,25,1999
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,25,690
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,25,4097
-IT1,,IT10,,IT109,Fermo,1,males,25,857
-IT1,,IT10,,IT109,Fermo,2,females,25,840
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,25,2326
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,25,2236
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,25,4097
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,25,857
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,25,840
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,25,2326
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,25,2236
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,2,females,26,4289
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,1,males,26,3006
 ITC,Nord-ovest,ITC4,Lombardia,ITC42,Como,2,females,26,2810
@@ -5577,12 +5577,12 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,26,1048
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,26,2198
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,26,2031
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,26,759
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,26,4315
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,26,3997
-IT1,,IT10,,IT109,Fermo,1,males,26,947
-IT1,,IT10,,IT109,Fermo,2,females,26,866
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,26,2515
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,26,2303
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,26,4315
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,26,3997
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,26,947
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,26,866
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,26,2515
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,26,2303
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD42,Udine,2,females,26,2380
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD43,Gorizia,2,females,26,622
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD44,Trieste,2,females,26,1032
@@ -5925,16 +5925,16 @@ ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,27,2639
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,27,2451
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,27,1207
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,27,1105
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,27,4373
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,27,2326
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,27,4373
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,27,2326
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,27,2243
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,27,2055
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,27,897
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,27,745
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,27,4217
-IT1,,IT10,,IT109,Fermo,1,males,27,940
-IT1,,IT10,,IT109,Fermo,2,females,27,860
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,27,2491
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,27,4217
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,27,940
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,27,860
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,27,2491
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,28,11857
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,28,11093
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,28,857
@@ -6067,12 +6067,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,28,2469
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,28,2209
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,28,843
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,28,797
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,28,4420
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,28,4185
-IT1,,IT10,,IT109,Fermo,1,males,28,865
-IT1,,IT10,,IT109,Fermo,2,females,28,907
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,28,2452
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,28,2286
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,28,4420
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,28,4185
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,28,865
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,28,907
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,28,2452
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,28,2286
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,2,females,28,924
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,2,females,28,5724
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,2,females,28,6585
@@ -6338,12 +6338,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,29,2346
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,29,2160
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,29,860
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,29,781
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,29,4334
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,29,4380
-IT1,,IT10,,IT109,Fermo,1,males,29,924
-IT1,,IT10,,IT109,Fermo,2,females,29,858
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,29,2389
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,29,2301
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,29,4334
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,29,4380
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,29,924
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,29,858
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,29,2389
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,29,2301
 ITE,Centro (I),ITE3,Marche,ITE31,Pesaro e Urbino,2,females,29,1795
 ITE,Centro (I),ITE3,Marche,ITE33,Macerata,1,males,29,1705
 ITE,Centro (I),ITE4,Lazio,ITE43,Roma,1,males,29,22870
@@ -6545,12 +6545,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,30,2469
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,30,2282
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,30,835
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,30,779
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,30,4472
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,30,4544
-IT1,,IT10,,IT109,Fermo,1,males,30,964
-IT1,,IT10,,IT109,Fermo,2,females,30,941
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,30,2386
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,30,2272
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,30,4472
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,30,4544
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,30,964
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,30,941
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,30,2386
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,30,2272
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,30,760
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,1,males,30,777
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,2,females,30,3088
@@ -6762,13 +6762,13 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,31,2375
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,31,2282
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,31,917
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,31,827
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,31,4414
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,31,4562
-IT1,,IT10,,IT109,Fermo,1,males,31,892
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,31,2275
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,31,4414
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,31,4562
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,31,892
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,31,2275
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,31,1131
-IT1,,IT10,,IT109,Fermo,2,females,31,941
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,31,2340
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,31,941
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,31,2340
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,31,11488
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,31,725
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,31,11516
@@ -6930,12 +6930,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,32,2350
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,32,2378
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,32,817
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,32,811
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,32,4542
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,32,4532
-IT1,,IT10,,IT109,Fermo,1,males,32,994
-IT1,,IT10,,IT109,Fermo,2,females,32,940
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,32,2376
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,32,2257
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,32,4542
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,32,4532
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,32,994
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,32,940
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,32,2376
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,32,2257
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,32,11938
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,32,11492
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,32,824
@@ -7201,12 +7201,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,33,2532
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,33,2434
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,33,877
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,33,818
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,33,4829
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,33,4757
-IT1,,IT10,,IT109,Fermo,1,males,33,1002
-IT1,,IT10,,IT109,Fermo,2,females,33,1006
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,33,2202
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,33,2163
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,33,4829
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,33,4757
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,33,1002
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,33,1006
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,33,2202
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,33,2163
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD44,Trieste,2,females,34,1152
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,1,males,34,1668
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD51,Piacenza,2,females,34,1554
@@ -7350,12 +7350,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,34,2582
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,34,2411
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,34,935
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,34,896
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,34,4880
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,34,4835
-IT1,,IT10,,IT109,Fermo,1,males,34,976
-IT1,,IT10,,IT109,Fermo,2,females,34,971
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,34,2298
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,34,2295
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,34,4880
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,34,4835
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,34,976
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,34,971
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,34,2298
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,34,2295
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,2,females,34,1268
 ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,1,males,34,4021
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,1,males,34,4983
@@ -7625,12 +7625,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,35,2704
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,35,2611
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,35,956
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,35,889
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,35,5056
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,35,5016
-IT1,,IT10,,IT109,Fermo,1,males,35,984
-IT1,,IT10,,IT109,Fermo,2,females,35,1001
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,35,2349
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,35,2297
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,35,5056
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,35,5016
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,35,984
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,35,1001
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,35,2349
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,35,2297
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,36,13008
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,36,977
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,36,900
@@ -7722,11 +7722,11 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,36,1134
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,36,2768
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,36,2778
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,36,888
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,36,5332
-IT1,,IT10,,IT109,Fermo,1,males,36,1038
-IT1,,IT10,,IT109,Fermo,2,females,36,1010
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,36,2327
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,36,2434
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,36,5332
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,36,1038
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,36,1010
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,36,2327
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,36,2434
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,36,12997
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,36,858
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,36,907
@@ -7842,7 +7842,7 @@ ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,2,females,36,1990
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,1,males,36,2441
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,2,females,36,2343
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,36,1021
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,36,5288
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,36,5288
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,37,12859
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,37,982
 ITE,Centro (I),ITE1,Toscana,ITE18,Arezzo,2,females,37,2025
@@ -8049,12 +8049,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,37,2743
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,37,2859
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,37,976
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,37,924
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,37,5295
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,37,5211
-IT1,,IT10,,IT109,Fermo,1,males,37,1035
-IT1,,IT10,,IT109,Fermo,2,females,37,1041
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,37,2391
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,37,2420
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,37,5295
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,37,5211
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,37,1035
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,37,1041
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,37,2391
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,37,2420
 ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,1,males,38,3197
 ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,2,females,38,3155
 ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,1,males,38,1985
@@ -8129,12 +8129,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,38,2941
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,38,2859
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,38,955
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,38,932
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,38,5610
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,38,5560
-IT1,,IT10,,IT109,Fermo,1,males,38,1036
-IT1,,IT10,,IT109,Fermo,2,females,38,1027
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,38,2484
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,38,2528
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,38,5610
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,38,5560
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,38,1036
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,38,1027
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,38,2484
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,38,2528
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,38,13171
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,38,13485
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,38,935
@@ -8441,10 +8441,10 @@ ITG,Isole,ITG1,Sicilia,ITG13,Messina,1,males,39,3914
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,39,1691
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,1,males,39,986
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1,males,39,8108
-IT1,,IT10,,IT109,Fermo,2,females,39,1191
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,39,2590
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,39,5813
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,39,2630
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,39,1191
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,39,2590
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,39,5813
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,39,2630
 ITF,Sud,ITF1,Abruzzo,ITF12,Teramo,2,females,39,2025
 ITF,Sud,ITF3,Campania,ITF31,Caserta,1,males,39,6514
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,2,females,39,2658
@@ -8464,8 +8464,8 @@ ITE,Centro (I),ITE3,Marche,ITE33,Macerata,1,males,39,1963
 ITF,Sud,ITF5,Basilicata,ITF52,Matera,1,males,39,1296
 ITF,Sud,ITF6,Calabria,ITF62,Crotone,1,males,39,1251
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,39,1031
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,39,5608
-IT1,,IT10,,IT109,Fermo,1,males,39,1118
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,39,5608
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,39,1118
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,39,2684
 ITE,Centro (I),ITE3,Marche,ITE34,Ascoli Piceno,1,males,39,1274
 ITF,Sud,ITF3,Campania,ITF33,Napoli,1,males,39,20157
@@ -8685,12 +8685,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,40,3150
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,40,3139
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,40,1108
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,40,1023
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,40,6077
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,40,5983
-IT1,,IT10,,IT109,Fermo,1,males,40,1179
-IT1,,IT10,,IT109,Fermo,2,females,40,1164
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,40,2782
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,40,2712
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,40,6077
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,40,5983
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,40,1179
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,40,1164
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,40,2782
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,40,2712
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,41,15162
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,41,15642
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,41,1054
@@ -8897,12 +8897,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,41,3290
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,41,3220
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,41,1122
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,41,1051
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,41,6324
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,41,6180
-IT1,,IT10,,IT109,Fermo,1,males,41,1158
-IT1,,IT10,,IT109,Fermo,2,females,41,1196
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,41,2876
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,41,2897
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,41,6324
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,41,6180
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,41,1158
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,41,1196
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,41,2876
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,41,2897
 ITD,Nord-est,ITD3,Veneto,ITD32,Vicenza,1,males,42,6231
 ITD,Nord-est,ITD3,Veneto,ITD32,Vicenza,2,females,42,6203
 ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,1,males,42,1353
@@ -9109,12 +9109,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,42,3355
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,42,3460
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,42,1146
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,42,1043
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,42,6695
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,42,6501
-IT1,,IT10,,IT109,Fermo,1,males,42,1294
-IT1,,IT10,,IT109,Fermo,2,females,42,1138
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,42,2902
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,42,2948
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,42,6695
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,42,6501
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,42,1294
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,42,1138
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,42,2902
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,42,2948
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,43,16823
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,43,17380
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,43,1234
@@ -9320,13 +9320,13 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,43,3641
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,43,3744
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,43,1143
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,43,1155
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,43,7207
-IT1,,IT10,,IT109,Fermo,1,males,43,1231
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,43,7207
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,43,1231
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,43,7861
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,43,7023
-IT1,,IT10,,IT109,Fermo,2,females,43,1323
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,43,2951
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,43,2947
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,43,7023
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,43,1323
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,43,2951
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,43,2947
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,44,17880
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,44,18166
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,44,1216
@@ -9448,12 +9448,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,44,3907
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,44,3850
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,44,1249
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,44,1148
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,44,7315
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,44,7309
-IT1,,IT10,,IT109,Fermo,1,males,44,1253
-IT1,,IT10,,IT109,Fermo,2,females,44,1295
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,44,3063
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,44,3204
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,44,7315
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,44,7309
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,44,1253
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,44,1295
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,44,3063
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,44,3204
 ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,2,females,44,26867
 ITC,Nord-ovest,ITC4,Lombardia,ITC47,Brescia,1,males,44,10750
 ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,1,males,44,1991
@@ -9745,12 +9745,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,45,3938
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,45,3845
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,45,1154
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,45,1137
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,45,7310
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,45,7205
-IT1,,IT10,,IT109,Fermo,1,males,45,1264
-IT1,,IT10,,IT109,Fermo,2,females,45,1317
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,45,2946
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,45,3073
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,45,7310
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,45,7205
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,45,1264
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,45,1317
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,45,2946
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,45,3073
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,1,males,46,2659
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,2,females,46,2661
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1,males,46,1418
@@ -9920,12 +9920,12 @@ ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,46,4077
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,46,3912
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,46,1205
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,46,1172
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,46,7420
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,46,7221
-IT1,,IT10,,IT109,Fermo,1,males,46,1233
-IT1,,IT10,,IT109,Fermo,2,females,46,1305
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,46,3009
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,46,3056
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,46,7420
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,46,7221
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,46,1233
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,46,1305
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,46,3009
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,46,3056
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,46,3012
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,2,females,46,8246
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,46,3049
@@ -10139,12 +10139,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,47,3652
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,47,3931
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,47,1255
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,47,1267
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,47,7517
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,47,7266
-IT1,,IT10,,IT109,Fermo,1,males,47,1282
-IT1,,IT10,,IT109,Fermo,2,females,47,1392
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,47,3184
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,47,3147
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,47,7517
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,47,7266
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,47,1282
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,47,1392
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,47,3184
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,47,3147
 ITE,Centro (I),ITE1,Toscana,ITE15,Prato,1,males,48,2181
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,48,18116
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,48,18754
@@ -10351,12 +10351,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,48,3668
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,48,3765
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,48,1258
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,48,1151
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,48,7295
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,48,7277
-IT1,,IT10,,IT109,Fermo,1,males,48,1344
-IT1,,IT10,,IT109,Fermo,2,females,48,1326
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,48,3117
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,48,3136
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,48,7295
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,48,7277
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,48,1344
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,48,1326
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,48,3117
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,48,3136
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,46,18195
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,46,18371
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,46,1322
@@ -10593,12 +10593,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,49,3684
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,49,3843
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,49,1291
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,49,1232
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,49,7530
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,49,7436
-IT1,,IT10,,IT109,Fermo,1,males,49,1323
-IT1,,IT10,,IT109,Fermo,2,females,49,1422
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,49,3082
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,49,3358
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,49,7530
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,49,7436
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,49,1323
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,49,1422
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,49,3082
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,49,3358
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD58,Forlì-Cesena,1,males,50,3164
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD58,Forlì-Cesena,2,females,50,3301
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD59,Rimini,1,males,50,2845
@@ -10702,7 +10702,7 @@ ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,50,2997
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,50,2996
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,50,1616
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,50,1182
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,50,7458
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,50,7458
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,50,18477
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,50,18896
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,50,1370
@@ -10804,11 +10804,11 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,50,1683
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,50,3529
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,50,3820
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,50,1235
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,50,7450
-IT1,,IT10,,IT109,Fermo,1,males,50,1304
-IT1,,IT10,,IT109,Fermo,2,females,50,1328
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,50,3211
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,50,3092
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,50,7450
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,50,1304
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,50,1328
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,50,3211
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,50,3092
 ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,2,females,50,1929
 ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,1,males,50,3479
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,51,18190
@@ -11017,12 +11017,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,51,3657
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,51,3805
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,51,1275
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,51,1278
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,51,7492
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,51,7299
-IT1,,IT10,,IT109,Fermo,1,males,51,1375
-IT1,,IT10,,IT109,Fermo,2,females,51,1419
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,51,3199
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,51,3074
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,51,7492
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,51,7299
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,51,1375
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,51,1419
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,51,3199
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,51,3074
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,52,18287
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,52,18717
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,52,1411
@@ -11229,12 +11229,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,52,3606
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,52,3818
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,52,1278
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,52,1355
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,52,7614
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,52,7486
-IT1,,IT10,,IT109,Fermo,1,males,52,1347
-IT1,,IT10,,IT109,Fermo,2,females,52,1396
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,52,3059
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,52,3272
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,52,7614
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,52,7486
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,52,1347
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,52,1396
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,52,3059
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,52,3272
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,53,17824
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,53,1465
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,53,1566
@@ -11246,12 +11246,12 @@ ITC,Nord-ovest,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC20,Valle d'Aosta / Vallé
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,53,1923
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,2,females,53,2496
 ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,2,females,53,7376
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,53,7455
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,53,7440
-IT1,,IT10,,IT109,Fermo,1,males,53,1347
-IT1,,IT10,,IT109,Fermo,2,females,53,1368
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,53,2972
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,53,3090
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,53,7455
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,53,7440
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,53,1347
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,53,1368
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,53,2972
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,53,3090
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,53,18647
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,53,1476
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,53,1495
@@ -11636,8 +11636,8 @@ ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,54,8170
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,54,3038
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,54,4148
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,54,1797
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,54,7435
-IT1,,IT10,,IT109,Fermo,2,females,54,1378
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,54,7435
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,54,1378
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,54,3050
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,54,3949
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,2,females,54,4311
@@ -11655,10 +11655,10 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,54,3737
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,54,3871
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,54,1312
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,54,1391
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,54,7462
-IT1,,IT10,,IT109,Fermo,1,males,54,1384
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,54,3111
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,54,3239
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,54,7462
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,54,1384
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,54,3111
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,54,3239
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,55,16750
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,55,17891
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,55,1394
@@ -11865,12 +11865,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,55,3486
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,55,3724
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,55,1223
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,55,1362
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,55,6973
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,55,6808
-IT1,,IT10,,IT109,Fermo,1,males,55,1288
-IT1,,IT10,,IT109,Fermo,2,females,55,1367
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,55,2930
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,55,2946
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,55,6973
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,55,6808
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,55,1288
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,55,1367
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,55,2930
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,55,2946
 ITD,Nord-est,ITD3,Veneto,ITD32,Vicenza,1,males,56,6694
 ITD,Nord-est,ITD3,Veneto,ITD32,Vicenza,2,females,56,6577
 ITD,Nord-est,ITD3,Veneto,ITD33,Belluno,1,males,56,1574
@@ -12077,12 +12077,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,56,3297
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,56,3633
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,56,1289
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,56,1307
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,56,6436
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,56,6544
-IT1,,IT10,,IT109,Fermo,1,males,56,1276
-IT1,,IT10,,IT109,Fermo,2,females,56,1318
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,56,2813
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,56,2904
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,56,6436
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,56,6544
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,56,1276
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,56,1318
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,56,2813
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,56,2904
 ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,2,females,57,3131
 ITE,Centro (I),ITE1,Toscana,ITE13,Pistoia,2,females,57,2274
 ITE,Centro (I),ITE1,Toscana,ITE14,Firenze,1,males,57,6970
@@ -12197,12 +12197,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,57,3129
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,57,3559
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,57,1253
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,57,1274
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,57,6270
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,57,6225
-IT1,,IT10,,IT109,Fermo,1,males,57,1346
-IT1,,IT10,,IT109,Fermo,2,females,57,1341
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,57,2750
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,57,2789
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,57,6270
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,57,6225
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,57,1346
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,57,1341
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,57,2750
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,57,2789
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,57,15810
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,57,17101
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,57,1346
@@ -12501,12 +12501,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,58,3124
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,58,3321
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,58,1176
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,58,1235
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,58,5920
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,58,6193
-IT1,,IT10,,IT109,Fermo,1,males,58,1272
-IT1,,IT10,,IT109,Fermo,2,females,58,1305
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,58,2566
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,58,2655
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,58,5920
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,58,6193
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,58,1272
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,58,1305
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,58,2566
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,58,2655
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,59,16170
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,59,1231
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,59,1250
@@ -12569,11 +12569,11 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,59,3046
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,59,3464
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,59,1222
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,59,1192
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,59,5695
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,59,6085
-IT1,,IT10,,IT109,Fermo,1,males,59,1225
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,59,2547
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,59,2655
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,59,5695
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,59,6085
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,59,1225
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,59,2547
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,59,2655
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,59,15134
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,59,1266
 ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,1,males,59,2632
@@ -12718,7 +12718,7 @@ ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1,males,59,8005
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,2,females,59,8795
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,59,2767
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,59,7140
-IT1,,IT10,,IT109,Fermo,2,females,59,1267
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,59,1267
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,60,14658
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,60,15853
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,60,1191
@@ -12925,12 +12925,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,60,2912
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,60,3229
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,60,1130
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,60,1217
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,60,5366
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,60,5697
-IT1,,IT10,,IT109,Fermo,1,males,60,1186
-IT1,,IT10,,IT109,Fermo,2,females,60,1250
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,60,2320
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,60,2516
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,60,5366
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,60,5697
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,60,1186
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,60,1250
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,60,2320
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,60,2516
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1,males,61,7753
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,2,females,61,2652
 ITF,Sud,ITF4,Puglia,ITF41,Foggia,1,males,61,3679
@@ -12967,9 +12967,9 @@ ITG,Isole,ITG1,Sicilia,ITG13,Messina,2,females,61,4700
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,61,1021
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,61,1784
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,61,3510
-IT1,,IT10,,IT109,Fermo,1,males,61,1167
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,61,1167
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,61,2783
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,61,5429
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,61,5429
 ITG,Isole,ITG1,Sicilia,ITG16,Enna,2,females,61,1191
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,61,2557
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,61,3523
@@ -13129,10 +13129,10 @@ ITG,Isole,ITG1,Sicilia,ITG16,Enna,1,males,61,965
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,61,2717
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,61,3385
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,61,1221
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,61,5550
-IT1,,IT10,,IT109,Fermo,2,females,61,1216
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,61,2439
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,61,2523
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,61,5550
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,61,1216
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,61,2439
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,61,2523
 ITE,Centro (I),ITE1,Toscana,ITE18,Arezzo,1,males,61,2227
 ITE,Centro (I),ITE2,Umbria,ITE22,Terni,1,males,61,1411
 ITE,Centro (I),ITE3,Marche,ITE32,Ancona,2,females,61,3215
@@ -13346,12 +13346,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,62,2859
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,62,3293
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,62,1134
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,62,1163
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,62,5153
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,62,5695
-IT1,,IT10,,IT109,Fermo,1,males,62,1149
-IT1,,IT10,,IT109,Fermo,2,females,62,1341
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,62,2199
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,62,2341
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,62,5153
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,62,5695
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,62,1149
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,62,1341
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,62,2199
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,62,2341
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,62,14288
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,2,females,62,1094
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,1,males,62,3660
@@ -13439,12 +13439,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,63,2748
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,63,3068
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,63,1136
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,63,1155
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,63,4957
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,63,5498
-IT1,,IT10,,IT109,Fermo,1,males,63,1138
-IT1,,IT10,,IT109,Fermo,2,females,63,1224
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,63,2204
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,63,2308
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,63,4957
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,63,5498
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,63,1138
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,63,1224
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,63,2204
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,63,2308
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,2,females,63,2159
 ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,1,males,63,17506
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,2,females,63,3578
@@ -13583,12 +13583,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,64,2717
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,64,3205
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,64,1128
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,64,1138
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,64,4846
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,64,5485
-IT1,,IT10,,IT109,Fermo,1,males,64,1094
-IT1,,IT10,,IT109,Fermo,2,females,64,1169
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,64,2103
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,64,2346
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,64,4846
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,64,5485
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,64,1094
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,64,1169
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,64,2103
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,64,2346
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,64,1201
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,64,1151
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,2,females,64,1301
@@ -13982,12 +13982,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,65,2548
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,65,2997
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,65,1117
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,65,1145
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,65,4803
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,65,5164
-IT1,,IT10,,IT109,Fermo,1,males,65,1045
-IT1,,IT10,,IT109,Fermo,2,females,65,1088
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,65,2014
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,65,2156
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,65,4803
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,65,5164
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,65,1045
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,65,1088
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,65,2014
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,65,2156
 ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,2,females,65,1237
 ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,1,males,65,2239
 ITD,Nord-est,ITD3,Veneto,ITD31,Verona,2,females,65,5125
@@ -14197,12 +14197,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,66,2483
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,66,2925
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,66,1046
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,66,1098
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,66,4776
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,66,5107
-IT1,,IT10,,IT109,Fermo,1,males,66,1017
-IT1,,IT10,,IT109,Fermo,2,females,66,1030
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,66,1959
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,66,2053
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,66,4776
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,66,5107
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,66,1017
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,66,1030
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,66,1959
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,66,2053
 ITD,Nord-est,ITD1,Provincia Autonoma Bolzano / Bozen,ITD10,Bolzano / Bozen,1,males,67,2455
 ITD,Nord-est,ITD1,Provincia Autonoma Bolzano / Bozen,ITD10,Bolzano / Bozen,2,females,67,2541
 ITD,Nord-est,ITD2,Provincia Autonoma Trento,ITD20,Trento,1,males,67,3018
@@ -14377,12 +14377,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,67,2381
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,67,2877
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,67,1079
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,67,1081
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,67,4676
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,67,5091
-IT1,,IT10,,IT109,Fermo,1,males,67,1001
-IT1,,IT10,,IT109,Fermo,2,females,67,1136
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,67,1983
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,67,2190
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,67,4676
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,67,5091
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,67,1001
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,67,1136
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,67,1983
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,67,2190
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,67,1083
 ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,2,females,67,2206
 ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,1,males,67,1265
@@ -14613,12 +14613,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,68,2469
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,68,2876
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,68,1124
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,68,1080
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,68,4720
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,68,5277
-IT1,,IT10,,IT109,Fermo,1,males,68,1042
-IT1,,IT10,,IT109,Fermo,2,females,68,1057
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,68,2023
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,68,2134
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,68,4720
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,68,5277
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,68,1042
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,68,1057
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,68,2023
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,68,2134
 ITE,Centro (I),ITE1,Toscana,ITE18,Arezzo,2,females,68,2181
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,1,males,68,1452
 ITE,Centro (I),ITE2,Umbria,ITE22,Terni,2,females,68,1576
@@ -14730,12 +14730,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,69,2389
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,69,2814
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,69,1033
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,69,1066
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,69,4675
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,69,5218
-IT1,,IT10,,IT109,Fermo,1,males,69,998
-IT1,,IT10,,IT109,Fermo,2,females,69,1080
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,69,2023
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,69,2151
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,69,4675
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,69,5218
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,69,998
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,69,1080
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,69,2023
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,69,2151
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,69,15038
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,69,1224
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,2,females,69,3643
@@ -15045,12 +15045,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,70,2380
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,70,2850
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,70,988
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,70,1047
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,70,4787
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,70,5510
-IT1,,IT10,,IT109,Fermo,1,males,70,1026
-IT1,,IT10,,IT109,Fermo,2,females,70,1069
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,70,2174
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,70,2304
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,70,4787
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,70,5510
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,70,1026
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,70,1069
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,70,2174
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,70,2304
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,2,females,71,2205
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,1,males,71,1264
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,2,females,71,2902
@@ -15115,7 +15115,7 @@ ITF,Sud,ITF3,Campania,ITF31,Caserta,1,males,71,4250
 ITE,Centro (I),ITE1,Toscana,ITE13,Pistoia,2,females,71,2042
 ITE,Centro (I),ITE1,Toscana,ITE19,Siena,2,females,71,1854
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1,males,71,1008
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,71,5147
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,71,5147
 ITC,Nord-ovest,ITC3,Liguria,ITC33,Genova,1,males,71,5531
 ITD,Nord-est,ITD3,Veneto,ITD34,Treviso,2,females,71,5137
 ITF,Sud,ITF6,Calabria,ITF61,Cosenza,1,males,71,3955
@@ -15129,11 +15129,11 @@ ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,1,males,71,2458
 ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,1,males,71,3081
 ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,1,males,71,1729
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,1,males,71,2799
-IT1,,IT10,,IT109,Fermo,1,males,71,956
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,71,956
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,1,males,71,3005
 ITD,Nord-est,ITD4,Friuli-Venezia Giulia,ITD41,Pordenone,1,males,71,1782
 ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,1,males,71,1803
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,71,2178
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,71,2178
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,1,males,71,2314
 ITF,Sud,ITF3,Campania,ITF35,Salerno,1,males,71,5667
 ITE,Centro (I),ITE1,Toscana,ITE12,Lucca,2,females,71,2738
@@ -15163,7 +15163,7 @@ ITE,Centro (I),ITE2,Umbria,ITE21,Perugia,1,males,71,3774
 ITD,Nord-est,ITD3,Veneto,ITD37,Rovigo,1,males,71,1516
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,2,females,71,2109
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,2,females,71,7597
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,71,4579
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,71,4579
 ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1,males,71,6548
 ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,1,males,71,2025
 ITF,Sud,ITF6,Calabria,ITF65,Reggio di Calabria,2,females,71,3317
@@ -15195,7 +15195,7 @@ ITF,Sud,ITF1,Abruzzo,ITF11,L'Aquila,2,females,71,1937
 ITE,Centro (I),ITE1,Toscana,ITE1A,Grosseto,1,males,71,1459
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,71,959
 ITE,Centro (I),ITE4,Lazio,ITE44,Latina,2,females,71,3550
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,71,1976
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,71,1976
 ITF,Sud,ITF6,Calabria,ITF62,Crotone,2,females,71,967
 ITG,Isole,ITG1,Sicilia,ITG11,Trapani,2,females,71,2681
 ITD,Nord-est,ITD3,Veneto,ITD36,Padova,2,females,71,5394
@@ -15262,7 +15262,7 @@ ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,1,males,71,1402
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,71,1615
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,1,males,71,1760
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,71,1121
-IT1,,IT10,,IT109,Fermo,2,females,71,1090
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,71,1090
 ITC,Nord-ovest,ITC2,Valle d'Aosta / Vallée d'Aoste,ITC20,Valle d'Aosta / Vallée d'Aoste,2,females,72,746
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,1,males,72,1300
 ITC,Nord-ovest,ITC3,Liguria,ITC31,Imperia,2,females,72,1609
@@ -15366,7 +15366,7 @@ ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,72,2154
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,2,females,72,2430
 ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,72,2813
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,72,940
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,72,1994
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,72,1994
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,72,13377
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,72,15288
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,72,1038
@@ -15470,11 +15470,11 @@ ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,72,1170
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,72,2257
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,72,2522
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,72,913
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,72,4753
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,72,5371
-IT1,,IT10,,IT109,Fermo,1,males,72,907
-IT1,,IT10,,IT109,Fermo,2,females,72,1058
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,72,2171
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,72,4753
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,72,5371
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,72,907
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,72,1058
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,72,2171
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,73,10288
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,73,11787
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,73,729
@@ -15681,12 +15681,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,73,2046
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,73,2463
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,73,862
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,73,870
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,73,3444
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,73,4114
-IT1,,IT10,,IT109,Fermo,1,males,73,818
-IT1,,IT10,,IT109,Fermo,2,females,73,865
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,73,1595
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,73,1725
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,73,3444
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,73,4114
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,73,818
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,73,865
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,73,1595
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,73,1725
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,74,10626
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,74,12598
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,74,818
@@ -15893,12 +15893,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,74,1798
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,74,2127
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,74,890
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,74,1016
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,74,3542
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,74,4260
-IT1,,IT10,,IT109,Fermo,1,males,74,686
-IT1,,IT10,,IT109,Fermo,2,females,74,833
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,74,1462
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,74,1618
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,74,3542
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,74,4260
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,74,686
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,74,833
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,74,1462
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,74,1618
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,75,12625
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,75,725
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,75,945
@@ -15925,7 +15925,7 @@ ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,2,females,75,16439
 ITC,Nord-ovest,ITC4,Lombardia,ITC46,Bergamo,1,males,75,4274
 ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,2,females,75,1088
 ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,1,males,75,1610
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,75,4129
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,75,4129
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,75,10313
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,2,females,75,886
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,1,males,75,2636
@@ -16106,11 +16106,11 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,75,1666
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,75,2204
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,75,753
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,75,989
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,75,3495
-IT1,,IT10,,IT109,Fermo,1,males,75,727
-IT1,,IT10,,IT109,Fermo,2,females,75,853
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,75,1474
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,75,1555
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,75,3495
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,75,727
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,75,853
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,75,1474
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,75,1555
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,76,10391
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,76,12540
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,76,745
@@ -16317,12 +16317,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,76,1845
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,76,2293
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,76,765
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,76,924
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,76,3543
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,76,4312
-IT1,,IT10,,IT109,Fermo,1,males,76,664
-IT1,,IT10,,IT109,Fermo,2,females,76,780
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,76,1416
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,76,1607
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,76,3543
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,76,4312
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,76,664
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,76,780
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,76,1416
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,76,1607
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,77,10055
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,77,12601
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,77,756
@@ -16371,12 +16371,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,77,1679
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,77,2151
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,77,687
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,77,806
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,77,3500
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,77,4467
-IT1,,IT10,,IT109,Fermo,1,males,77,662
-IT1,,IT10,,IT109,Fermo,2,females,77,816
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,77,1304
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,77,1508
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,77,3500
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,77,4467
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,77,662
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,77,816
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,77,1304
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,77,1508
 ITC,Nord-ovest,ITC3,Liguria,ITC32,Savona,2,females,77,1843
 ITC,Nord-ovest,ITC3,Liguria,ITC34,La Spezia,1,males,77,1114
 ITC,Nord-ovest,ITC4,Lombardia,ITC41,Varese,2,females,77,4780
@@ -16741,12 +16741,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,78,1735
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,78,2289
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,78,750
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,78,1002
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,78,3825
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,78,4675
-IT1,,IT10,,IT109,Fermo,1,males,78,780
-IT1,,IT10,,IT109,Fermo,2,females,78,991
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,78,1432
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,78,1616
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,78,3825
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,78,4675
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,78,780
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,78,991
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,78,1432
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,78,1616
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,79,10620
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,79,13495
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,79,806
@@ -16953,12 +16953,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,79,1563
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,79,2015
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,79,773
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,79,881
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,79,3804
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,79,4585
-IT1,,IT10,,IT109,Fermo,1,males,79,830
-IT1,,IT10,,IT109,Fermo,2,females,79,1067
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,79,1252
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,79,1546
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,79,3804
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,79,4585
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,79,830
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,79,1067
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,79,1252
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,79,1546
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,1,males,80,4090
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD55,Bologna,2,females,80,5586
 ITD,Nord-est,ITD5,Emilia-Romagna,ITD56,Ferrara,1,males,80,1568
@@ -17079,10 +17079,10 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,80,1366
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,80,1808
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,80,606
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,80,825
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,80,3377
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,80,4416
-IT1,,IT10,,IT109,Fermo,1,males,80,823
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,80,1393
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,80,3377
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,80,4416
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,80,823
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,80,1393
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,80,10040
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,80,12865
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,80,751
@@ -17158,8 +17158,8 @@ ITG,Isole,ITG1,Sicilia,ITG12,Palermo,1,males,80,3837
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,80,1302
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,80,3261
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,80,740
-IT1,,IT10,,IT109,Fermo,2,females,80,1006
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,80,1090
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,80,1006
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,80,1090
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,2,females,80,1762
 ITC,Nord-ovest,ITC4,Lombardia,ITC45,Milano,1,males,80,12491
 ITC,Nord-ovest,ITC4,Lombardia,ITC48,Pavia,2,females,80,3003
@@ -17377,12 +17377,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,81,1227
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,81,1675
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,81,544
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,81,740
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,81,2922
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,81,3837
-IT1,,IT10,,IT109,Fermo,1,males,81,704
-IT1,,IT10,,IT109,Fermo,2,females,81,885
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,81,1109
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,81,1404
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,81,2922
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,81,3837
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,81,704
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,81,885
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,81,1109
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,81,1404
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,82,7723
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,82,10599
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,82,611
@@ -17572,12 +17572,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,82,1154
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,82,1630
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,82,509
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,82,779
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,82,2669
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,82,3419
-IT1,,IT10,,IT109,Fermo,1,males,82,612
-IT1,,IT10,,IT109,Fermo,2,females,82,813
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,82,907
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,82,1194
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,82,2669
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,82,3419
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,82,612
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,82,813
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,82,907
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,82,1194
 ITE,Centro (I),ITE1,Toscana,ITE14,Firenze,1,males,82,3238
 ITE,Centro (I),ITE1,Toscana,ITE17,Pisa,2,females,82,1809
 ITE,Centro (I),ITE1,Toscana,ITE19,Siena,1,males,82,922
@@ -17801,12 +17801,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,83,922
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,83,1430
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,83,433
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,83,691
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,83,2435
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,83,3477
-IT1,,IT10,,IT109,Fermo,1,males,83,630
-IT1,,IT10,,IT109,Fermo,2,females,83,869
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,83,907
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,83,1206
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,83,2435
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,83,3477
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,83,630
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,83,869
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,83,907
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,83,1206
 ITF,Sud,ITF1,Abruzzo,ITF13,Pescara,2,females,84,1267
 ITF,Sud,ITF1,Abruzzo,ITF14,Chieti,2,females,84,1586
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,84,6345
@@ -18001,12 +18001,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,84,870
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,84,1456
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,84,466
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,84,666
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,84,1996
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,84,3148
-IT1,,IT10,,IT109,Fermo,1,males,84,541
-IT1,,IT10,,IT109,Fermo,2,females,84,738
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,84,771
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,84,1112
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,84,1996
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,84,3148
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,84,541
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,84,738
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,84,771
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,84,1112
 ITE,Centro (I),ITE1,Toscana,ITE13,Pistoia,2,females,84,1208
 ITE,Centro (I),ITE1,Toscana,ITE15,Prato,1,males,84,601
 ITE,Centro (I),ITE1,Toscana,ITE18,Arezzo,2,females,84,1396
@@ -18225,12 +18225,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,85,823
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,85,1331
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,85,436
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,85,686
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,85,1808
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,85,2944
-IT1,,IT10,,IT109,Fermo,1,males,85,470
-IT1,,IT10,,IT109,Fermo,2,females,85,752
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,85,643
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,85,984
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,85,1808
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,85,2944
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,85,470
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,85,752
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,85,643
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,85,984
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,86,4817
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,86,8117
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,86,405
@@ -18437,12 +18437,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,86,662
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,86,1149
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,86,373
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,86,567
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,86,1591
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,86,2629
-IT1,,IT10,,IT109,Fermo,1,males,86,355
-IT1,,IT10,,IT109,Fermo,2,females,86,641
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,86,614
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,86,902
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,86,1591
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,86,2629
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,86,355
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,86,641
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,86,614
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,86,902
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,87,4305
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,87,362
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,87,706
@@ -18649,12 +18649,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,87,580
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,87,1027
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,87,297
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,87,512
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,87,1414
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,87,2403
-IT1,,IT10,,IT109,Fermo,1,males,87,399
-IT1,,IT10,,IT109,Fermo,2,females,87,578
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,87,553
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,87,804
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,87,1414
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,87,2403
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,87,399
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,87,578
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,87,553
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,87,804
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,88,3774
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,88,6979
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,88,337
@@ -18786,11 +18786,11 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,88,565
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,88,1024
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,88,252
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,88,485
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,88,1152
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,88,2263
-IT1,,IT10,,IT109,Fermo,1,males,88,313
-IT1,,IT10,,IT109,Fermo,2,females,88,560
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,88,417
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,88,1152
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,88,2263
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,88,313
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,88,560
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,88,417
 ITC,Nord-ovest,ITC4,Lombardia,ITC49,Lodi,2,females,88,568
 ITC,Nord-ovest,ITC4,Lombardia,ITC4B,Mantova,2,females,88,1260
 ITD,Nord-est,ITD3,Veneto,ITD31,Verona,2,females,88,2555
@@ -18866,7 +18866,7 @@ ITE,Centro (I),ITE4,Lazio,ITE45,Frosinone,2,females,88,1391
 ITG,Isole,ITG1,Sicilia,ITG14,Agrigento,1,males,88,670
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,2,females,88,2527
 ITG,Isole,ITG1,Sicilia,ITG19,Siracusa,1,males,88,504
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,88,735
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,88,735
 ITF,Sud,ITF4,Puglia,ITF45,Lecce,2,females,89,1969
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,1,males,89,534
 ITF,Sud,ITF5,Basilicata,ITF51,Potenza,2,females,89,969
@@ -18908,12 +18908,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,89,393
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,89,882
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,89,240
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,89,438
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,89,890
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,89,1923
-IT1,,IT10,,IT109,Fermo,1,males,89,248
-IT1,,IT10,,IT109,Fermo,2,females,89,483
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,89,338
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,89,599
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,89,890
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,89,1923
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,89,248
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,89,483
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,89,338
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,89,599
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,89,2865
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,89,5850
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,89,246
@@ -19279,18 +19279,18 @@ ITG,Isole,ITG2,Sardegna,ITG25,Sassari,2,females,90,820
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,90,219
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,2,females,90,491
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,90,390
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,90,660
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,90,1654
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,90,297
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,90,660
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,90,1654
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,90,297
 ITG,Isole,ITG1,Sicilia,ITG13,Messina,2,females,90,1226
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,1,males,90,192
 ITG,Isole,ITG1,Sicilia,ITG18,Ragusa,2,females,90,504
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,90,331
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,90,760
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,90,187
-IT1,,IT10,,IT109,Fermo,1,males,90,244
-IT1,,IT10,,IT109,Fermo,2,females,90,388
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,90,469
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,90,244
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,90,388
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,90,469
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,91,1718
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,91,4051
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,2,females,91,432
@@ -19437,12 +19437,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,91,238
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,91,616
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,91,120
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,91,316
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,91,535
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,91,1354
-IT1,,IT10,,IT109,Fermo,1,males,91,166
-IT1,,IT10,,IT109,Fermo,2,females,91,386
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,91,235
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,91,425
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,91,535
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,91,1354
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,91,166
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,91,386
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,91,235
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,91,425
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,91,128
 ITC,Nord-ovest,ITC1,Piemonte,ITC15,Novara,2,females,91,724
 ITC,Nord-ovest,ITC1,Piemonte,ITC17,Asti,1,males,91,222
@@ -19610,12 +19610,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,92,187
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,92,498
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,92,131
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,92,271
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,92,379
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,92,1068
-IT1,,IT10,,IT109,Fermo,1,males,92,140
-IT1,,IT10,,IT109,Fermo,2,females,92,297
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,92,148
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,92,339
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,92,379
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,92,1068
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,92,140
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,92,297
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,92,148
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,92,339
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,92,1233
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,92,3305
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,92,100
@@ -19921,12 +19921,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,93,120
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,93,380
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,93,73
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,93,225
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,93,301
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,93,881
-IT1,,IT10,,IT109,Fermo,1,males,93,115
-IT1,,IT10,,IT109,Fermo,2,females,93,259
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,93,107
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,93,273
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,93,301
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,93,881
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,93,115
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,93,259
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,93,107
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,93,273
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,94,613
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,94,1984
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,94,63
@@ -20100,12 +20100,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,94,95
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,94,307
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,94,63
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,94,173
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,94,214
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,94,688
-IT1,,IT10,,IT109,Fermo,1,males,94,59
-IT1,,IT10,,IT109,Fermo,2,females,94,197
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,94,82
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,94,213
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,94,214
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,94,688
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,94,59
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,94,197
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,94,82
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,94,213
 ITE,Centro (I),ITE4,Lazio,ITE42,Rieti,2,females,94,171
 ITE,Centro (I),ITE4,Lazio,ITE44,Latina,1,males,94,141
 ITE,Centro (I),ITE4,Lazio,ITE44,Latina,2,females,94,415
@@ -20345,12 +20345,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,95,75
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,95,199
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,95,40
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,95,127
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,95,146
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,95,494
-IT1,,IT10,,IT109,Fermo,1,males,95,56
-IT1,,IT10,,IT109,Fermo,2,females,95,137
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,95,61
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,95,167
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,95,146
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,95,494
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,95,56
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,95,137
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,95,61
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,95,167
 ITC,Nord-ovest,ITC1,Piemonte,ITC13,Biella,1,males,96,28
 ITC,Nord-ovest,ITC1,Piemonte,ITC14,Verbano-Cusio-Ossola,1,males,96,17
 ITC,Nord-ovest,ITC1,Piemonte,ITC16,Cuneo,2,females,96,324
@@ -20409,12 +20409,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,96,69
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,96,183
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,96,33
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,96,88
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,96,93
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,96,395
-IT1,,IT10,,IT109,Fermo,1,males,96,37
-IT1,,IT10,,IT109,Fermo,2,females,96,106
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,96,38
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,96,115
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,96,93
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,96,395
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,96,37
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,96,106
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,96,38
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,96,115
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,96,304
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,96,1231
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,96,32
@@ -20614,11 +20614,11 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,97,37
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,97,145
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,97,19
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,97,70
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,97,64
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,97,296
-IT1,,IT10,,IT109,Fermo,1,males,97,32
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,97,32
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,97,82
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,97,64
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,97,296
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,97,32
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,97,32
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,97,82
 ITC,Nord-ovest,ITC4,Lombardia,ITC43,Lecco,2,females,97,128
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,1,males,97,12
 ITC,Nord-ovest,ITC4,Lombardia,ITC44,Sondrio,2,females,97,92
@@ -20741,7 +20741,7 @@ ITF,Sud,ITF6,Calabria,ITF63,Catanzaro,1,males,97,46
 ITG,Isole,ITG1,Sicilia,ITG15,Caltanissetta,2,females,97,58
 ITG,Isole,ITG1,Sicilia,ITG17,Catania,1,males,97,96
 ITG,Isole,ITG2,Sardegna,ITG26,Nuoro,1,males,97,30
-IT1,,IT10,,IT109,Fermo,2,females,97,64
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,97,64
 ITE,Centro (I),ITE3,Marche,ITE33,Macerata,2,females,97,145
 ITE,Centro (I),ITE4,Lazio,ITE41,Viterbo,1,males,97,25
 ITE,Centro (I),ITE4,Lazio,ITE43,Roma,2,females,97,1543
@@ -20980,12 +20980,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,98,29
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,98,109
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,98,9
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,98,46
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,98,47
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,98,205
-IT1,,IT10,,IT109,Fermo,1,males,98,13
-IT1,,IT10,,IT109,Fermo,2,females,98,47
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,98,24
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,98,52
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,98,47
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,98,205
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,98,13
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,98,47
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,98,24
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,98,52
 ITF,Sud,ITF2,Molise,ITF22,Campobasso,1,males,98,20
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,1,males,99,2
 ITF,Sud,ITF6,Calabria,ITF64,Vibo Valentia,2,females,99,12
@@ -21017,12 +21017,12 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,99,11
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,99,41
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,99,9
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,99,30
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,99,10
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,99,74
-IT1,,IT10,,IT109,Fermo,1,males,99,6
-IT1,,IT10,,IT109,Fermo,2,females,99,25
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,99,11
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,99,23
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,99,10
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,99,74
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,99,6
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,99,25
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,99,11
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,99,23
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,1,males,99,43
 ITC,Nord-ovest,ITC1,Piemonte,ITC11,Torino,2,females,99,261
 ITC,Nord-ovest,ITC1,Piemonte,ITC12,Vercelli,1,males,99,4
@@ -21405,211 +21405,211 @@ ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,1,males,,10
 ITG,Isole,ITG2,Sardegna,ITG27,Cagliari,2,females,,84
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,1,males,,16
 ITG,Isole,ITG2,Sardegna,ITG28,Oristano,2,females,,27
-IT1,,IT10,,IT108,Monza e della Brianza,1,males,,15
-IT1,,IT10,,IT108,Monza e della Brianza,2,females,,131
-IT1,,IT10,,IT109,Fermo,1,males,,7
-IT1,,IT10,,IT109,Fermo,2,females,,30
-IT1,,IT11,,IT110,Barletta-Andria-Trani,1,males,,15
-IT1,,IT11,,IT110,Barletta-Andria-Trani,2,females,,40
-IT1,,IT11,,IT111,Sud Sardegna,2,females,18,1555
-IT1,,IT11,,IT111,Sud Sardegna,1,males,14,1446
-IT1,,IT11,,IT111,Sud Sardegna,1,males,52,2930
-IT1,,IT11,,IT111,Sud Sardegna,1,males,19,1603
-IT1,,IT11,,IT111,Sud Sardegna,2,females,84,1348
-IT1,,IT11,,IT111,Sud Sardegna,2,females,8,1263
-IT1,,IT11,,IT111,Sud Sardegna,2,females,37,2121
-IT1,,IT11,,IT111,Sud Sardegna,2,females,82,1440
-IT1,,IT11,,IT111,Sud Sardegna,2,females,49,2871
-IT1,,IT11,,IT111,Sud Sardegna,1,males,89,440
-IT1,,IT11,,IT111,Sud Sardegna,1,males,87,612
-IT1,,IT11,,IT111,Sud Sardegna,2,females,72,2067
-IT1,,IT11,,IT111,Sud Sardegna,2,females,74,1896
-IT1,,IT11,,IT111,Sud Sardegna,2,females,17,1363
-IT1,,IT11,,IT111,Sud Sardegna,2,females,61,2792
-IT1,,IT11,,IT111,Sud Sardegna,1,males,4,1172
-IT1,,IT11,,IT111,Sud Sardegna,2,females,47,2684
-IT1,,IT11,,IT111,Sud Sardegna,1,males,64,2609
-IT1,,IT11,,IT111,Sud Sardegna,1,males,40,2600
-IT1,,IT11,,IT111,Sud Sardegna,1,males,5,1234
-IT1,,IT11,,IT111,Sud Sardegna,2,females,60,2711
-IT1,,IT11,,IT111,Sud Sardegna,2,females,1,959
-IT1,,IT11,,IT111,Sud Sardegna,1,males,41,2573
-IT1,,IT11,,IT111,Sud Sardegna,1,males,12,1359
-IT1,,IT11,,IT111,Sud Sardegna,2,females,97,110
-IT1,,IT11,,IT111,Sud Sardegna,2,females,27,1694
-IT1,,IT11,,IT111,Sud Sardegna,1,males,33,2044
-IT1,,IT11,,IT111,Sud Sardegna,2,females,4,1112
-IT1,,IT11,,IT111,Sud Sardegna,1,males,77,1465
-IT1,,IT11,,IT111,Sud Sardegna,1,males,37,2222
-IT1,,IT11,,IT111,Sud Sardegna,1,males,61,2709
-IT1,,IT11,,IT111,Sud Sardegna,2,females,2,1013
-IT1,,IT11,,IT111,Sud Sardegna,2,females,40,2306
-IT1,,IT11,,IT111,Sud Sardegna,1,males,55,2846
-IT1,,IT11,,IT111,Sud Sardegna,1,males,1,984
-IT1,,IT11,,IT111,Sud Sardegna,2,females,68,2456
-IT1,,IT11,,IT111,Sud Sardegna,1,males,15,1421
-IT1,,IT11,,IT111,Sud Sardegna,2,females,41,2443
-IT1,,IT11,,IT111,Sud Sardegna,1,males,84,936
-IT1,,IT11,,IT111,Sud Sardegna,2,females,24,1505
-IT1,,IT11,,IT111,Sud Sardegna,2,females,93,383
-IT1,,IT11,,IT111,Sud Sardegna,2,females,38,2199
-IT1,,IT11,,IT111,Sud Sardegna,2,females,64,2578
-IT1,,IT11,,IT111,Sud Sardegna,1,males,60,2668
-IT1,,IT11,,IT111,Sud Sardegna,2,females,62,2708
-IT1,,IT11,,IT111,Sud Sardegna,2,females,87,1006
-IT1,,IT11,,IT111,Sud Sardegna,1,males,39,2282
-IT1,,IT11,,IT111,Sud Sardegna,1,males,79,1499
-IT1,,IT11,,IT111,Sud Sardegna,2,females,95,238
-IT1,,IT11,,IT111,Sud Sardegna,2,females,70,2404
-IT1,,IT11,,IT111,Sud Sardegna,1,males,31,1897
-IT1,,IT11,,IT111,Sud Sardegna,1,males,53,2855
-IT1,,IT11,,IT111,Sud Sardegna,1,males,18,1610
-IT1,,IT11,,IT111,Sud Sardegna,2,females,19,1360
-IT1,,IT11,,IT111,Sud Sardegna,1,males,80,1251
-IT1,,IT11,,IT111,Sud Sardegna,1,males,8,1381
-IT1,,IT11,,IT111,Sud Sardegna,2,females,3,1052
-IT1,,IT11,,IT111,Sud Sardegna,1,males,99,16
-IT1,,IT11,,IT111,Sud Sardegna,2,females,12,1332
-IT1,,IT11,,IT111,Sud Sardegna,1,males,22,1701
-IT1,,IT11,,IT111,Sud Sardegna,1,males,36,2263
-IT1,,IT11,,IT111,Sud Sardegna,1,males,2,1052
-IT1,,IT11,,IT111,Sud Sardegna,1,males,54,3003
-IT1,,IT11,,IT111,Sud Sardegna,1,males,90,387
-IT1,,IT11,,IT111,Sud Sardegna,1,males,49,2796
-IT1,,IT11,,IT111,Sud Sardegna,2,females,88,1066
-IT1,,IT11,,IT111,Sud Sardegna,2,females,94,329
-IT1,,IT11,,IT111,Sud Sardegna,1,males,29,1964
-IT1,,IT11,,IT111,Sud Sardegna,2,females,67,2507
-IT1,,IT11,,IT111,Sud Sardegna,1,males,72,2036
-IT1,,IT11,,IT111,Sud Sardegna,2,females,33,1910
-IT1,,IT11,,IT111,Sud Sardegna,1,males,85,852
-IT1,,IT11,,IT111,Sud Sardegna,2,females,50,2768
-IT1,,IT11,,IT111,Sud Sardegna,1,males,6,1236
-IT1,,IT11,,IT111,Sud Sardegna,1,males,66,2499
-IT1,,IT11,,IT111,Sud Sardegna,1,males,32,1948
-IT1,,IT11,,IT111,Sud Sardegna,2,females,57,2867
-IT1,,IT11,,IT111,Sud Sardegna,1,males,62,2592
-IT1,,IT11,,IT111,Sud Sardegna,2,females,63,2619
-IT1,,IT11,,IT111,Sud Sardegna,2,females,42,2542
-IT1,,IT11,,IT111,Sud Sardegna,2,females,14,1252
-IT1,,IT11,,IT111,Sud Sardegna,2,females,22,1395
-IT1,,IT11,,IT111,Sud Sardegna,2,females,79,1867
-IT1,,IT11,,IT111,Sud Sardegna,2,females,32,1738
-IT1,,IT11,,IT111,Sud Sardegna,2,females,89,932
-IT1,,IT11,,IT111,Sud Sardegna,2,females,45,2670
-IT1,,IT11,,IT111,Sud Sardegna,2,females,31,1803
-IT1,,IT11,,IT111,Sud Sardegna,1,males,58,2749
-IT1,,IT11,,IT111,Sud Sardegna,2,females,66,2565
-IT1,,IT11,,IT111,Sud Sardegna,1,males,57,2812
-IT1,,IT11,,IT111,Sud Sardegna,2,females,54,2876
-IT1,,IT11,,IT111,Sud Sardegna,1,males,68,2413
-IT1,,IT11,,IT111,Sud Sardegna,1,males,34,2131
-IT1,,IT11,,IT111,Sud Sardegna,2,females,90,805
-IT1,,IT11,,IT111,Sud Sardegna,1,males,94,126
-IT1,,IT11,,IT111,Sud Sardegna,2,females,53,2785
-IT1,,IT11,,IT111,Sud Sardegna,1,males,95,101
-IT1,,IT11,,IT111,Sud Sardegna,2,females,6,1164
-IT1,,IT11,,IT111,Sud Sardegna,2,females,20,1312
-IT1,,IT11,,IT111,Sud Sardegna,2,females,35,2028
-IT1,,IT11,,IT111,Sud Sardegna,1,males,97,45
-IT1,,IT11,,IT111,Sud Sardegna,1,males,44,2896
-IT1,,IT11,,IT111,Sud Sardegna,1,males,91,277
-IT1,,IT11,,IT111,Sud Sardegna,1,males,10,1361
-IT1,,IT11,,IT111,Sud Sardegna,2,females,39,2219
-IT1,,IT11,,IT111,Sud Sardegna,2,females,81,1527
-IT1,,IT11,,IT111,Sud Sardegna,1,males,83,913
-IT1,,IT11,,IT111,Sud Sardegna,2,females,69,2398
-IT1,,IT11,,IT111,Sud Sardegna,2,females,75,1887
-IT1,,IT11,,IT111,Sud Sardegna,2,females,86,1233
-IT1,,IT11,,IT111,Sud Sardegna,2,females,16,1363
-IT1,,IT11,,IT111,Sud Sardegna,1,males,78,1601
-IT1,,IT11,,IT111,Sud Sardegna,2,females,65,2559
-IT1,,IT11,,IT111,Sud Sardegna,2,females,25,1596
-IT1,,IT11,,IT111,Sud Sardegna,1,males,27,1887
-IT1,,IT11,,IT111,Sud Sardegna,1,males,38,2356
-IT1,,IT11,,IT111,Sud Sardegna,1,males,24,1661
-IT1,,IT11,,IT111,Sud Sardegna,1,males,47,2715
-IT1,,IT11,,IT111,Sud Sardegna,1,males,0,998
-IT1,,IT11,,IT111,Sud Sardegna,2,females,92,537
-IT1,,IT11,,IT111,Sud Sardegna,1,males,74,1716
-IT1,,IT11,,IT111,Sud Sardegna,2,females,9,1343
-IT1,,IT11,,IT111,Sud Sardegna,1,males,21,1590
-IT1,,IT11,,IT111,Sud Sardegna,2,females,48,2641
-IT1,,IT11,,IT111,Sud Sardegna,2,females,36,2120
-IT1,,IT11,,IT111,Sud Sardegna,2,females,7,1262
-IT1,,IT11,,IT111,Sud Sardegna,2,females,85,1272
-IT1,,IT11,,IT111,Sud Sardegna,2,females,46,2631
-IT1,,IT11,,IT111,Sud Sardegna,1,males,20,1594
-IT1,,IT11,,IT111,Sud Sardegna,2,females,71,2286
-IT1,,IT11,,IT111,Sud Sardegna,1,males,13,1458
-IT1,,IT11,,IT111,Sud Sardegna,2,females,73,1909
-IT1,,IT11,,IT111,Sud Sardegna,1,males,88,577
-IT1,,IT11,,IT111,Sud Sardegna,1,males,51,2912
-IT1,,IT11,,IT111,Sud Sardegna,1,males,63,2540
-IT1,,IT11,,IT111,Sud Sardegna,1,males,42,2639
-IT1,,IT11,,IT111,Sud Sardegna,1,males,86,692
-IT1,,IT11,,IT111,Sud Sardegna,1,males,11,1372
-IT1,,IT11,,IT111,Sud Sardegna,1,males,76,1645
-IT1,,IT11,,IT111,Sud Sardegna,2,females,59,2670
-IT1,,IT11,,IT111,Sud Sardegna,1,males,65,2569
-IT1,,IT11,,IT111,Sud Sardegna,2,females,0,906
-IT1,,IT11,,IT111,Sud Sardegna,1,males,3,1142
-IT1,,IT11,,IT111,Sud Sardegna,1,males,30,1833
-IT1,,IT11,,IT111,Sud Sardegna,2,females,96,168
-IT1,,IT11,,IT111,Sud Sardegna,2,females,28,1776
-IT1,,IT11,,IT111,Sud Sardegna,1,males,,30
-IT1,,IT11,,IT111,Sud Sardegna,2,females,26,1692
-IT1,,IT11,,IT111,Sud Sardegna,2,females,83,1325
-IT1,,IT11,,IT111,Sud Sardegna,2,females,98,100
-IT1,,IT11,,IT111,Sud Sardegna,1,males,43,2714
-IT1,,IT11,,IT111,Sud Sardegna,2,females,11,1308
-IT1,,IT11,,IT111,Sud Sardegna,1,males,7,1355
-IT1,,IT11,,IT111,Sud Sardegna,1,males,50,2668
-IT1,,IT11,,IT111,Sud Sardegna,2,females,13,1261
-IT1,,IT11,,IT111,Sud Sardegna,2,females,51,2843
-IT1,,IT11,,IT111,Sud Sardegna,1,males,9,1364
-IT1,,IT11,,IT111,Sud Sardegna,1,males,23,1656
-IT1,,IT11,,IT111,Sud Sardegna,2,females,80,1652
-IT1,,IT11,,IT111,Sud Sardegna,2,females,99,57
-IT1,,IT11,,IT111,Sud Sardegna,1,males,98,30
-IT1,,IT11,,IT111,Sud Sardegna,2,females,29,1773
-IT1,,IT11,,IT111,Sud Sardegna,1,males,48,2729
-IT1,,IT11,,IT111,Sud Sardegna,2,females,76,1879
-IT1,,IT11,,IT111,Sud Sardegna,1,males,92,248
-IT1,,IT11,,IT111,Sud Sardegna,1,males,71,2253
-IT1,,IT11,,IT111,Sud Sardegna,2,females,,79
-IT1,,IT11,,IT111,Sud Sardegna,1,males,96,72
-IT1,,IT11,,IT111,Sud Sardegna,2,females,10,1316
-IT1,,IT11,,IT111,Sud Sardegna,1,males,45,2852
-IT1,,IT11,,IT111,Sud Sardegna,1,males,28,1875
-IT1,,IT11,,IT111,Sud Sardegna,1,males,73,1794
-IT1,,IT11,,IT111,Sud Sardegna,1,males,26,1787
-IT1,,IT11,,IT111,Sud Sardegna,2,females,58,2747
-IT1,,IT11,,IT111,Sud Sardegna,1,males,75,1650
-IT1,,IT11,,IT111,Sud Sardegna,2,females,34,1975
-IT1,,IT11,,IT111,Sud Sardegna,2,females,56,2936
-IT1,,IT11,,IT111,Sud Sardegna,1,males,67,2499
-IT1,,IT11,,IT111,Sud Sardegna,2,females,30,1773
-IT1,,IT11,,IT111,Sud Sardegna,1,males,46,2898
-IT1,,IT11,,IT111,Sud Sardegna,2,females,15,1305
-IT1,,IT11,,IT111,Sud Sardegna,2,females,5,1187
-IT1,,IT11,,IT111,Sud Sardegna,2,females,52,2858
-IT1,,IT11,,IT111,Sud Sardegna,2,females,77,1791
-IT1,,IT11,,IT111,Sud Sardegna,1,males,70,2429
-IT1,,IT11,,IT111,Sud Sardegna,2,females,78,1990
-IT1,,IT11,,IT111,Sud Sardegna,2,females,44,2738
-IT1,,IT11,,IT111,Sud Sardegna,2,females,55,2902
-IT1,,IT11,,IT111,Sud Sardegna,1,males,82,1039
-IT1,,IT11,,IT111,Sud Sardegna,1,males,81,1153
-IT1,,IT11,,IT111,Sud Sardegna,1,males,35,2048
-IT1,,IT11,,IT111,Sud Sardegna,1,males,56,2721
-IT1,,IT11,,IT111,Sud Sardegna,1,males,69,2368
-IT1,,IT11,,IT111,Sud Sardegna,1,males,59,2672
-IT1,,IT11,,IT111,Sud Sardegna,1,males,16,1537
-IT1,,IT11,,IT111,Sud Sardegna,2,females,43,2609
-IT1,,IT11,,IT111,Sud Sardegna,1,males,93,171
-IT1,,IT11,,IT111,Sud Sardegna,2,females,21,1363
-IT1,,IT11,,IT111,Sud Sardegna,1,males,17,1464
-IT1,,IT11,,IT111,Sud Sardegna,1,males,25,1672
-IT1,,IT11,,IT111,Sud Sardegna,2,females,91,660
-IT1,,IT11,,IT111,Sud Sardegna,2,females,23,1472
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,1,males,,15
+ITC,Nord-ovest,ITC4,Lombardia,IT108,Monza e della Brianza,2,females,,131
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,1,males,,7
+ITE,Centro (I),ITE3,Marche,IT109,Fermo,2,females,,30
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,1,males,,15
+ITF,Sud,ITF4,Puglia,IT110,Barletta-Andria-Trani,2,females,,40
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,18,1555
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,14,1446
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,52,2930
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,19,1603
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,84,1348
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,8,1263
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,37,2121
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,82,1440
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,49,2871
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,89,440
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,87,612
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,72,2067
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,74,1896
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,17,1363
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,61,2792
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,4,1172
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,47,2684
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,64,2609
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,40,2600
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,5,1234
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,60,2711
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,1,959
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,41,2573
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,12,1359
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,97,110
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,27,1694
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,33,2044
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,4,1112
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,77,1465
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,37,2222
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,61,2709
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,2,1013
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,40,2306
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,55,2846
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,1,984
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,68,2456
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,15,1421
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,41,2443
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,84,936
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,24,1505
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,93,383
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,38,2199
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,64,2578
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,60,2668
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,62,2708
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,87,1006
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,39,2282
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,79,1499
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,95,238
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,70,2404
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,31,1897
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,53,2855
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,18,1610
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,19,1360
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,80,1251
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,8,1381
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,3,1052
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,99,16
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,12,1332
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,22,1701
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,36,2263
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,2,1052
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,54,3003
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,90,387
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,49,2796
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,88,1066
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,94,329
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,29,1964
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,67,2507
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,72,2036
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,33,1910
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,85,852
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,50,2768
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,6,1236
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,66,2499
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,32,1948
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,57,2867
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,62,2592
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,63,2619
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,42,2542
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,14,1252
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,22,1395
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,79,1867
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,32,1738
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,89,932
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,45,2670
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,31,1803
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,58,2749
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,66,2565
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,57,2812
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,54,2876
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,68,2413
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,34,2131
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,90,805
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,94,126
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,53,2785
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,95,101
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,6,1164
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,20,1312
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,35,2028
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,97,45
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,44,2896
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,91,277
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,10,1361
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,39,2219
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,81,1527
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,83,913
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,69,2398
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,75,1887
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,86,1233
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,16,1363
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,78,1601
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,65,2559
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,25,1596
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,27,1887
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,38,2356
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,24,1661
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,47,2715
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,0,998
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,92,537
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,74,1716
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,9,1343
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,21,1590
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,48,2641
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,36,2120
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,7,1262
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,85,1272
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,46,2631
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,20,1594
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,71,2286
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,13,1458
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,73,1909
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,88,577
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,51,2912
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,63,2540
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,42,2639
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,86,692
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,11,1372
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,76,1645
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,59,2670
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,65,2569
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,0,906
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,3,1142
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,30,1833
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,96,168
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,28,1776
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,,30
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,26,1692
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,83,1325
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,98,100
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,43,2714
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,11,1308
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,7,1355
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,50,2668
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,13,1261
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,51,2843
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,9,1364
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,23,1656
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,80,1652
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,99,57
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,98,30
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,29,1773
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,48,2729
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,76,1879
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,92,248
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,71,2253
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,,79
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,96,72
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,10,1316
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,45,2852
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,28,1875
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,73,1794
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,26,1787
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,58,2747
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,75,1650
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,34,1975
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,56,2936
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,67,2499
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,30,1773
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,46,2898
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,15,1305
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,5,1187
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,52,2858
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,77,1791
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,70,2429
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,78,1990
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,44,2738
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,55,2902
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,82,1039
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,81,1153
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,35,2048
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,56,2721
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,69,2368
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,59,2672
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,16,1537
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,43,2609
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,93,171
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,21,1363
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,17,1464
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,1,males,25,1672
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,91,660
+ITG,Isole,ITG2,Sardegna,IT111,Sud Sardegna,2,females,23,1472

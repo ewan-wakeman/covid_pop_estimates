@@ -6,6 +6,14 @@
 # for cleaning
 require(tidyverse)
 
+# there are some weird codes we need to deal with individually (IT108-111) these are
+# ITTER107 Territory            
+# <chr>    <chr>                
+# 1 IT108    Monza e della Brianza
+# 2 IT109    Fermo                
+# 3 IT110    Barletta-Andria-Trani
+# 4 IT111    Sud Sardegna         
+
 pop <- 
   # read csv
   read_csv('data/raw_pop_estimates.csv') %>%
@@ -13,9 +21,17 @@ pop <-
   filter(`Marital status` == 'total', Age != 'total', Gender != 'total') %>%
   transmute(
     # first three characters indicate region
-    region_id = str_sub(ITTER107, end = 3),
+    region_id = case_when(ITTER107 == 'IT108' ~ 'ITC',
+                          ITTER107 == 'IT109' ~ 'ITE',
+                          ITTER107 == 'IT110' ~ 'ITF',
+                          ITTER107 == 'IT111' ~ 'ITG',
+                          T ~ str_sub(ITTER107, end = 3)),
     # first 4 indicate province
-    province_id = str_sub(ITTER107, end = 4),
+    province_id = case_when(ITTER107 == 'IT108' ~ 'ITC4',
+                            ITTER107 == 'IT109' ~ 'ITE3',
+                            ITTER107 == 'IT110' ~ 'ITF4',
+                            ITTER107 == 'IT111' ~ 'ITG2',
+                            T ~ str_sub(ITTER107, end = 4)),
     # full id is equal to territory
     terr_id = ITTER107,
     territory = Territory,
